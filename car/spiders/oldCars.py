@@ -1,5 +1,7 @@
 import scrapy
 from car.items import CarItem
+import pandas as pd
+import numpy as np
 
 
 class OldcarsSpider(scrapy.Spider):
@@ -52,3 +54,9 @@ class OldcarsSpider(scrapy.Spider):
             '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[8]/td/text()').extract_first() 
         
         yield item
+
+
+df = pd.read_csv('D:\DEBeginner\Project2\car\car.csv')
+
+df = df[['name','price','origin','status','KMtraveled','color','doorNumber','engine','fuelConsumption']]
+df.to_csv('car/car.csv', sep='\t', encoding='utf-8')
