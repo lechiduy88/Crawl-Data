@@ -1,9 +1,7 @@
 import pandas as pd
-import numpy as np
 
-
-df = pd.read_csv('D:\DEBeginner\Project2\car\car.csv')
-
-
-df = df[['name','price','origin','status','KMtraveled','color','doorNumber','engine','fuelConsumption']]
-df.to_csv('car/car.csv', sep='\t', encoding='utf-8')
+if __name__ == "__main__":
+    df = pd.read_csv('D:\DEBeginner\Project1\car\car\car.csv', error_bad_lines=False)
+    df = df[['name','price','origin','status','KMtraveled','color','doorNumber','engine','fuelConsumption']]
+    df = df[df.name.notnull()]
+    df.to_csv('allcar.csv', sep='\t', encoding='utf-8')
