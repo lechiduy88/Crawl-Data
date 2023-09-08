@@ -8,10 +8,8 @@ class OldcarsSpider(scrapy.Spider):
     start_urls = ["https://sanbonbanh.com/"]
 
     def start_requests(self):
-        # s = ""
-        # e = ""
         pages = []
-        for i in range(40,45): 
+        for i in range(55,57): 
             domain = 'https://sanbonbanh.com/sellcar/page-{}/'.format(i)
             pages.append(domain)
 
@@ -29,7 +27,9 @@ class OldcarsSpider(scrapy.Spider):
     def parse(self, response):
         item = CarItem()
         item['name'] = response.xpath(
-            '/html/body/section[2]/div/div[1]/div[1]/h3/text()').extract_first() 
+            '/html/body/section[2]/div/div[1]/div[1]/h3/text()').extract_first()
+        item['yom'] = response.xpath(
+            '/html/body/section[2]/div/div[2]/div[2]/div/div/ul/li[7]/strong/text()').extract_first() 
         item['price'] = response.xpath(
             '/html/body/section[2]/div/div[1]/div[2]/div[1]/strong/text()').extract_first() 
         item['origin'] = response.xpath(
@@ -42,6 +42,8 @@ class OldcarsSpider(scrapy.Spider):
             '/html/body/section[2]/div/div[2]/div[2]/div/div/ul/li[2]/strong/text()').extract_first() 
         item['doorNumber'] = response.xpath(
             '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[2]/td/text()').extract_first() 
+        item['seatNumber'] = response.xpath(
+            '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[1]/td/text()').extract_first() 
         item['engine'] = response.xpath(
             '/html/body/section[2]/div/div[2]/div[2]/div/div/ul/li[9]/strong/text()').extract_first() 
         item['gear'] = response.xpath(
