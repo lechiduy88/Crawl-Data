@@ -1,72 +1,72 @@
-	name	price	origin	status	KMtraveled	color	doorNumber	engine	fuelConsumption
-0	Bán ô tô Mercedes Benz S class S500L - 2016 - xe cũ	2.39 tỉ	Nhập khẩu	Đã qua sử dụng	65000	Trắng	4	Số tự động	
-1	Bán ô tô Honda City 1.5 Top - 2019 - xe cũ	470 triệu	Lắp ráp trong nước	Đã qua sử dụng	70000	Đen	5	Số tự động	
-2	Bán ô tô Mitsubishi Pajero Sport 2.4D 4x2 AT - 2022 - xe mới	1 tỉ	Nhập khẩu	Mới	0	Nâu	5	Số tự động	1940
-3	Bán ô tô Daewoo Nubira II 1.6 - 2001 - xe cũ	95 triệu	Lắp ráp trong nước	Đã qua sử dụng	0	Đen	4	Số tay	
-4	Bán ô tô Honda CRV G - 2018 - xe cũ	750 triệu	Nhập khẩu	Đã qua sử dụng	55000	Đen	5	Số tự động	
-5	Bán ô tô Hyundai Kona 1.6 Turbo - 2019 - xe cũ	600 triệu	Lắp ráp trong nước	Đã qua sử dụng	17000	Vàng	5	Số tự động	
-6	Bán ô tô Honda HRV L - 2021 - xe cũ	659 triệu	Nhập khẩu	Đã qua sử dụng	21	Đen	5	Số tự động	1
-7	Bán ô tô Chevrolet Colorado LTZ 2.8L 4x4 AT - 2018 - xe cũ	495 triệu	Nhập khẩu	Đã qua sử dụng	43000	Trắng	4	Số tự động	
-8	Bán ô tô Chevrolet Spark Se - 2016 - xe cũ	175 triệu	Lắp ráp trong nước	Đã qua sử dụng	110000	Đỏ	5	Số tay	
-9	Bán ô tô Kia Rondo AT - 2020 - xe cũ	516 triệu	Lắp ráp trong nước	Đã qua sử dụng	38000	Nâu	5	Số tự động	
-10	Bán ô tô Chevrolet Aveo 1.5 MT - 2011 - xe cũ	99 triệu	Lắp ráp trong nước	Đã qua sử dụng	110000	Bạc	5	Số tay	
-11	Bán ô tô Mercedes Benz S class S450 - 2022 - xe cũ	4.888 tỉ	Nhập khẩu	Đã qua sử dụng	12000	Đen	4	Số tự động	
-12	Bán ô tô Mercedes Benz GLK Class GLK250 4Matic - 2015 - xe cũ	765 triệu	Lắp ráp trong nước	Đã qua sử dụng	70000	Đen	5	Số tự động	2
-13	Bán ô tô Mercedes Benz G class G63 AMG - 2021 - xe cũ	10.111 tỉ	Nhập khẩu	Đã qua sử dụng	9000	Nâu	4	Số tự động	
-14	Bán ô tô Toyota Vios 1.5E CVT - 2019 - xe cũ	460 triệu	Lắp ráp trong nước	Đã qua sử dụng	36000	Đỏ	4	Số tự động	
-15	Bán ô tô Mercedes Benz C class C300 AMG - 2011 - xe cũ	490 triệu	Lắp ráp trong nước	Đã qua sử dụng	75000	Trắng	4	Số tự động	3
-16	Bán ô tô Hyundai Kona 2.0 ATH - 2018 - xe cũ	560 triệu	Lắp ráp trong nước	Đã qua sử dụng	40000	Đen	5	Số tự động	
-17	Bán ô tô Mercedes Benz S class S450L Luxury - 2019 - xe cũ	3.22 tỉ	Lắp ráp trong nước	Đã qua sử dụng	3300	Đen	4	Số tự động	
-18	Bán ô tô Hyundai i10 1.2 AT - 2023 - xe mới	406 triệu	Lắp ráp trong nước	Mới	0	Trắng	5	Số tự động	1
-19	Bán ô tô BMW X7 M sport - 2019 - xe cũ	3.95 tỉ	Nhập khẩu	Đã qua sử dụng	30000	Xanh	5	Số tự động	
-20	Bán ô tô BMW X7 M sport - 2023 - xe mới	6.209 tỉ	Nhập khẩu	Mới	0	9	AWD - 4 bánh toàn thời gian	Số tự động	
-21	Bán ô tô Toyota Hilux - 2018 - xe cũ	555 triệu	Nhập khẩu	Đã qua sử dụng	40000	0	Trắng		
-22	Bán ô tô Nissan X trail AT - 2017 - xe cũ	598 triệu	Lắp ráp trong nước	Đã qua sử dụng	55000	Bạc	5	Số tự động	
-23	Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2023 - xe mới	972 triệu	Lắp ráp trong nước	Mới	0	Đỏ	4	Số tự động	2
-24	Bán ô tô Mercedes Benz E class E200 - 2016 - xe cũ	1.139 tỉ	Lắp ráp trong nước	Đã qua sử dụng	58000	Đen	4	Số tự động	2
-25	Bán ô tô Mitsubishi Xpander Premium 1.5 AT - 2023 - xe mới	640 triệu	Nhập khẩu	Mới	0	Nâu	5	Số tự động	1275
-26	Bán ô tô Mercedes Benz E class E200 - 2017 - xe cũ	1.16 tỉ	Lắp ráp trong nước	Đã qua sử dụng	40	Đen	4	Số tự động	
-27	Bán ô tô Mercedes Benz E class E250 - 2014 - xe cũ	757 triệu	Lắp ráp trong nước	Đã qua sử dụng	78000	Đen	4	Số tự động	2
-28	Bán ô tô Hyundai SantaFe 2.4L 4WD - 2010 - xe cũ	395 triệu	Nhập khẩu	Đã qua sử dụng	95000	Bạc	5	Số tự động	
-29	Bán ô tô Mitsubishi Xpander 1.5 AT - 2019 - xe cũ	515 triệu	Nhập khẩu	Đã qua sử dụng	65000	Trắng	5	Số tự động	1
-30	Bán ô tô Ford Ranger XLS 2.0L 4x2 AT - 2023 - xe mới	677 triệu	Lắp ráp trong nước	Mới	0	Nâu	4	Số tự động	
-31	Bán ô tô Ford Ranger Raptor 2.0L 4x4 AT - 2018 - xe cũ	1.048 tỉ	Nhập khẩu	Đã qua sử dụng	52000	Đen	4	Số tự động	2
-32	Bán ô tô Mitsubishi Xpander 1.5 MT - 2019 - xe cũ	470 triệu	Nhập khẩu	Đã qua sử dụng	56000	Nâu	5	Số tay	1
-33	Bán ô tô Mercedes Benz E class E200 - 2019 - xe cũ	1.58 tỉ	Lắp ráp trong nước	Đã qua sử dụng	50000	Đen	4	Số tự động	
-34	Bán ô tô Hyundai SantaFe 2.2L - 2020 - xe cũ	915 triệu	Lắp ráp trong nước	Đã qua sử dụng	30000	Trắng	5	Số tự động	
-35	Bán ô tô Mercedes Benz E class E200 - 2019 - xe cũ	1.688 tỉ	Lắp ráp trong nước	Đã qua sử dụng	50000	Tím	4	Số tự động	
-43	Bán ô tô Hyundai Kona 2.0 ATH - 2020 - xe cũ	610 triệu	Lắp ráp trong nước	Đã qua sử dụng	20000	Trắng	5	Số tự động	2
-60	name	price	origin	status	KMtraveled	color	doorNumber	engine	fuelConsumption
-61	Bán ô tô Chevrolet Captiva LT 2.4 MT - 2007 - xe cũ	168 triệu	Lắp ráp trong nước	Đã qua sử dụng	170000	Bạc	5	Số tay	2
-62	Bán ô tô Isuzu Dmax LS 2.5 4x2 MT - 2016 - xe cũ	360 triệu	Nhập khẩu	Đã qua sử dụng	0	Trắng	4	Số tay	
-63	Bán ô tô Honda CRV L - 2018 - xe cũ	795 triệu	Nhập khẩu	Đã qua sử dụng	58000	Trắng	5	Số tự động	
-64	Bán ô tô Chevrolet Spark LTZ 1.0 AT - 2014 - xe cũ	185 triệu	Lắp ráp trong nước	Đã qua sử dụng	105000	Bạc	5	Số tự động	1
-65	Bán ô tô Kia Rondo GAT Deluxe - 2019 - xe cũ	535 triệu	Lắp ráp trong nước	Đã qua sử dụng	50000	Cát	5	Số tự động	
-66	Bán ô tô Lexus ES 250 - 2021 - xe cũ	2.34 tỉ	Nhập khẩu	Đã qua sử dụng	28000	Đen	4	Số tự động	
-67	Bán ô tô Kia Rondo GAT - 2017 - xe cũ	468 triệu	Lắp ráp trong nước	Đã qua sử dụng	11000	Bạc	4	Số tự động	
-68	Bán ô tô Porsche Cayenne 3.0 V6 - 2021 - xe cũ	5.9 tỉ	Nhập khẩu	Đã qua sử dụng	0	Đen	5	Số tự động	
-69	Bán ô tô Honda City L 1.5 AT - 2021 - xe cũ	495 triệu	Lắp ráp trong nước	Đã qua sử dụng	10000	Đen	4	Số tự động	
-70	Bán ô tô Toyota Hilux 2.8L 4x4 AT - 2021 - xe cũ	880 triệu	Nhập khẩu	Đã qua sử dụng	0	Đỏ	4	Số tự động	
-71	Bán ô tô Honda CRV 2.4 AT - 2014 - xe cũ	555 triệu	Lắp ráp trong nước	Đã qua sử dụng	82000	Xanh	5	Số tự động	2
-72	Bán ô tô Hyundai SantaFe 2.2L 4WD - 2017 - xe cũ	800 triệu	Lắp ráp trong nước	Đã qua sử dụng	0	Trắng	5	Số tự động	
-73	Bán ô tô Hyundai Kona 2.0 ATH - 2020 - xe cũ	585 triệu	Lắp ráp trong nước	Đã qua sử dụng	33000	Đen	5	Số tự động	
-74	Bán ô tô Hyundai SantaFe Tiêu chuẩn 2.2L - 2023 - xe mới	1.1 tỉ	Lắp ráp trong nước	Mới	0	Trắng	5	Số tự động	2
-75	Chính chủ bán xe Honda City 1.5 Top CVT sản xuất 2019	420 triệu	Nhập khẩu	Đã qua sử dụng	54000	0	4	Số tự động	
-76	Bán ô tô Hyundai Elantra MT - 2008 - xe cũ	165 triệu	Nhập khẩu	Đã qua sử dụng	100000	Trắng	4	Số tay	
-77	Bán ô tô Nissan Grand livina 1.8 MT - 2011 - xe cũ	210 triệu	Lắp ráp trong nước	Đã qua sử dụng	110000	Đen	5	Số tay	1
-78	Bán ô tô Volvo S90 Inscription LWB B6 AWD - 2022 - xe cũ	2.199 tỉ	Nhập khẩu	Đã qua sử dụng	3000	Đen	4	Số tự động	
-79	Bán ô tô Suzuki Carry 07 Chỗ - 1997 - xe cũ	115 triệu	Lắp ráp trong nước	Đã qua sử dụng	187800	Trắng	5	Số tay	
-80	Bán ô tô Hyundai Elantra 2.0 AT - 2018 - xe cũ	486 triệu	Lắp ráp trong nước	Đã qua sử dụng	70000	Trắng	4	Số tự động	2
-81	Bán ô tô BMW X6 xDrive35i - 2008 - xe cũ	530 triệu	Nhập khẩu	Đã qua sử dụng	66000	Đỏ	5	Số tự động	3
-82	Bán ô tô Porsche Cayenne S - 2019 - xe cũ	4.39 tỉ	Nhập khẩu	Đã qua sử dụng	37000	Trắng	5	Số tự động	
-83	Bán ô tô Hyundai Avante - 2012 - xe cũ	315 triệu	Lắp ráp trong nước	Đã qua sử dụng	118000	0	Trắng	Số tự động	
-84	Bán ô tô Hyundai Sonata 2.0 AT 4x2 - 2010 - xe cũ	375 triệu	Nhập khẩu	Đã qua sử dụng	86000	Đỏ	4	Số tự động	
-85	Bán ô tô Hyundai Sonata - 2010 - xe cũ	310 triệu	Nhập khẩu	Đã qua sử dụng	1	Ghi	4	Số tự động	
-86	Bán ô tô Volvo XC60 Incription - 2020 - xe cũ	1.74 tỉ	Nhập khẩu	Đã qua sử dụng	12445	0	-	Số tự động	
-87	Bán ô tô Lexus LX 570 - 2015 - xe cũ	6.25 tỉ	Nhập khẩu	Đã qua sử dụng	80000	Đen	5	Số tự động	
-88	Bán ô tô Ford EcoSport Titanium 1.5L AT - 2016 - xe cũ	395 triệu	Lắp ráp trong nước	Đã qua sử dụng	36000	Trắng	5	Số tự động	
-89	Bán ô tô Mercedes Benz GLC 200 - 2023 - xe mới	1.737 tỉ	Lắp ráp trong nước	Mới	0	Trắng	5	Số tự động	2
-90	Bán ô tô Toyota Corolla Cross 1.8HV - 2020 - xe cũ	780 triệu	Nhập khẩu	Đã qua sử dụng	39000	Đen	5	Số tự động	
-92	Bán ô tô Lexus LX 570 - 2013 - xe cũ	3.5 tỉ	Nhập khẩu	Đã qua sử dụng	112345	Đen	5	Số tự động	5
-93	Bán ô tô Mercedes Benz GLC 200 - 2021 - xe cũ	1.49 tỉ	Lắp ráp trong nước	Đã qua sử dụng	27000	Đỏ	5	Số tự động	
-102	Bán ô tô Mercedes Benz GLC 300 4Matic - 2018 - xe cũ	1.329 tỉ	Lắp ráp trong nước	Đã qua sử dụng	0	Đen	5	Số tự động	
+,name,price,origin,status,KMtraveled,color,doorNumber,engine,fuelConsumption
+0,Bán ô tô Mercedes Benz S class S500L - 2016 - xe cũ,2.39 tỉ,Nhập khẩu,Đã qua sử dụng,65000,Trắng,4,Số tự động,
+1,Bán ô tô Honda City 1.5 Top - 2019 - xe cũ,470 triệu,Lắp ráp trong nước,Đã qua sử dụng,70000,Đen,5,Số tự động,
+2,Bán ô tô Mitsubishi Pajero Sport 2.4D 4x2 AT - 2022 - xe mới,1 tỉ,Nhập khẩu,Mới,0,Nâu,5,Số tự động,1940
+3,Bán ô tô Daewoo Nubira II 1.6 - 2001 - xe cũ,95 triệu,Lắp ráp trong nước,Đã qua sử dụng,0,Đen,4,Số tay,
+4,Bán ô tô Honda CRV G - 2018 - xe cũ,750 triệu,Nhập khẩu,Đã qua sử dụng,55000,Đen,5,Số tự động,
+5,Bán ô tô Hyundai Kona 1.6 Turbo - 2019 - xe cũ,600 triệu,Lắp ráp trong nước,Đã qua sử dụng,17000,Vàng,5,Số tự động,
+6,Bán ô tô Honda HRV L - 2021 - xe cũ,659 triệu,Nhập khẩu,Đã qua sử dụng,21,Đen,5,Số tự động,1
+7,Bán ô tô Chevrolet Colorado LTZ 2.8L 4x4 AT - 2018 - xe cũ,495 triệu,Nhập khẩu,Đã qua sử dụng,43000,Trắng,4,Số tự động,
+8,Bán ô tô Chevrolet Spark Se - 2016 - xe cũ,175 triệu,Lắp ráp trong nước,Đã qua sử dụng,110000,Đỏ,5,Số tay,
+9,Bán ô tô Kia Rondo AT - 2020 - xe cũ,516 triệu,Lắp ráp trong nước,Đã qua sử dụng,38000,Nâu,5,Số tự động,
+10,Bán ô tô Chevrolet Aveo 1.5 MT - 2011 - xe cũ,99 triệu,Lắp ráp trong nước,Đã qua sử dụng,110000,Bạc,5,Số tay,
+11,Bán ô tô Mercedes Benz S class S450 - 2022 - xe cũ,4.888 tỉ,Nhập khẩu,Đã qua sử dụng,12000,Đen,4,Số tự động,
+12,Bán ô tô Mercedes Benz GLK Class GLK250 4Matic - 2015 - xe cũ,765 triệu,Lắp ráp trong nước,Đã qua sử dụng,70000,Đen,5,Số tự động,2
+13,Bán ô tô Mercedes Benz G class G63 AMG - 2021 - xe cũ,10.111 tỉ,Nhập khẩu,Đã qua sử dụng,9000,Nâu,4,Số tự động,
+14,Bán ô tô Toyota Vios 1.5E CVT - 2019 - xe cũ,460 triệu,Lắp ráp trong nước,Đã qua sử dụng,36000,Đỏ,4,Số tự động,
+15,Bán ô tô Mercedes Benz C class C300 AMG - 2011 - xe cũ,490 triệu,Lắp ráp trong nước,Đã qua sử dụng,75000,Trắng,4,Số tự động,3
+16,Bán ô tô Hyundai Kona 2.0 ATH - 2018 - xe cũ,560 triệu,Lắp ráp trong nước,Đã qua sử dụng,40000,Đen,5,Số tự động,
+17,Bán ô tô Mercedes Benz S class S450L Luxury - 2019 - xe cũ,3.22 tỉ,Lắp ráp trong nước,Đã qua sử dụng,3300,Đen,4,Số tự động,
+18,Bán ô tô Hyundai i10 1.2 AT - 2023 - xe mới,406 triệu,Lắp ráp trong nước,Mới,0,Trắng,5,Số tự động,1
+19,Bán ô tô BMW X7 M sport - 2019 - xe cũ,3.95 tỉ,Nhập khẩu,Đã qua sử dụng,30000,Xanh,5,Số tự động,
+20,Bán ô tô BMW X7 M sport - 2023 - xe mới,6.209 tỉ,Nhập khẩu,Mới,0,9,AWD - 4 bánh toàn thời gian,Số tự động,
+21,Bán ô tô Toyota Hilux - 2018 - xe cũ,555 triệu,Nhập khẩu,Đã qua sử dụng,40000,0,Trắng,,
+22,Bán ô tô Nissan X trail AT - 2017 - xe cũ,598 triệu,Lắp ráp trong nước,Đã qua sử dụng,55000,Bạc,5,Số tự động,
+23,Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2023 - xe mới,972 triệu,Lắp ráp trong nước,Mới,0,Đỏ,4,Số tự động,2
+24,Bán ô tô Mercedes Benz E class E200 - 2016 - xe cũ,1.139 tỉ,Lắp ráp trong nước,Đã qua sử dụng,58000,Đen,4,Số tự động,2
+25,Bán ô tô Mitsubishi Xpander Premium 1.5 AT - 2023 - xe mới,640 triệu,Nhập khẩu,Mới,0,Nâu,5,Số tự động,1275
+26,Bán ô tô Mercedes Benz E class E200 - 2017 - xe cũ,1.16 tỉ,Lắp ráp trong nước,Đã qua sử dụng,40,Đen,4,Số tự động,
+27,Bán ô tô Mercedes Benz E class E250 - 2014 - xe cũ,757 triệu,Lắp ráp trong nước,Đã qua sử dụng,78000,Đen,4,Số tự động,2
+28,Bán ô tô Hyundai SantaFe 2.4L 4WD - 2010 - xe cũ,395 triệu,Nhập khẩu,Đã qua sử dụng,95000,Bạc,5,Số tự động,
+29,Bán ô tô Mitsubishi Xpander 1.5 AT - 2019 - xe cũ,515 triệu,Nhập khẩu,Đã qua sử dụng,65000,Trắng,5,Số tự động,1
+30,Bán ô tô Ford Ranger XLS 2.0L 4x2 AT - 2023 - xe mới,677 triệu,Lắp ráp trong nước,Mới,0,Nâu,4,Số tự động,
+31,Bán ô tô Ford Ranger Raptor 2.0L 4x4 AT - 2018 - xe cũ,1.048 tỉ,Nhập khẩu,Đã qua sử dụng,52000,Đen,4,Số tự động,2
+32,Bán ô tô Mitsubishi Xpander 1.5 MT - 2019 - xe cũ,470 triệu,Nhập khẩu,Đã qua sử dụng,56000,Nâu,5,Số tay,1
+33,Bán ô tô Mercedes Benz E class E200 - 2019 - xe cũ,1.58 tỉ,Lắp ráp trong nước,Đã qua sử dụng,50000,Đen,4,Số tự động,
+34,Bán ô tô Hyundai SantaFe 2.2L - 2020 - xe cũ,915 triệu,Lắp ráp trong nước,Đã qua sử dụng,30000,Trắng,5,Số tự động,
+35,Bán ô tô Mercedes Benz E class E200 - 2019 - xe cũ,1.688 tỉ,Lắp ráp trong nước,Đã qua sử dụng,50000,Tím,4,Số tự động,
+43,Bán ô tô Hyundai Kona 2.0 ATH - 2020 - xe cũ,610 triệu,Lắp ráp trong nước,Đã qua sử dụng,20000,Trắng,5,Số tự động,2
+60,name,price,origin,status,KMtraveled,color,doorNumber,engine,fuelConsumption
+61,Bán ô tô Chevrolet Captiva LT 2.4 MT - 2007 - xe cũ,168 triệu,Lắp ráp trong nước,Đã qua sử dụng,170000,Bạc,5,Số tay,2
+62,Bán ô tô Isuzu Dmax LS 2.5 4x2 MT - 2016 - xe cũ,360 triệu,Nhập khẩu,Đã qua sử dụng,0,Trắng,4,Số tay,
+63,Bán ô tô Honda CRV L - 2018 - xe cũ,795 triệu,Nhập khẩu,Đã qua sử dụng,58000,Trắng,5,Số tự động,
+64,Bán ô tô Chevrolet Spark LTZ 1.0 AT - 2014 - xe cũ,185 triệu,Lắp ráp trong nước,Đã qua sử dụng,105000,Bạc,5,Số tự động,1
+65,Bán ô tô Kia Rondo GAT Deluxe - 2019 - xe cũ,535 triệu,Lắp ráp trong nước,Đã qua sử dụng,50000,Cát,5,Số tự động,
+66,Bán ô tô Lexus ES 250 - 2021 - xe cũ,2.34 tỉ,Nhập khẩu,Đã qua sử dụng,28000,Đen,4,Số tự động,
+67,Bán ô tô Kia Rondo GAT - 2017 - xe cũ,468 triệu,Lắp ráp trong nước,Đã qua sử dụng,11000,Bạc,4,Số tự động,
+68,Bán ô tô Porsche Cayenne 3.0 V6 - 2021 - xe cũ,5.9 tỉ,Nhập khẩu,Đã qua sử dụng,0,Đen,5,Số tự động,
+69,Bán ô tô Honda City L 1.5 AT - 2021 - xe cũ,495 triệu,Lắp ráp trong nước,Đã qua sử dụng,10000,Đen,4,Số tự động,
+70,Bán ô tô Toyota Hilux 2.8L 4x4 AT - 2021 - xe cũ,880 triệu,Nhập khẩu,Đã qua sử dụng,0,Đỏ,4,Số tự động,
+71,Bán ô tô Honda CRV 2.4 AT - 2014 - xe cũ,555 triệu,Lắp ráp trong nước,Đã qua sử dụng,82000,Xanh,5,Số tự động,2
+72,Bán ô tô Hyundai SantaFe 2.2L 4WD - 2017 - xe cũ,800 triệu,Lắp ráp trong nước,Đã qua sử dụng,0,Trắng,5,Số tự động,
+73,Bán ô tô Hyundai Kona 2.0 ATH - 2020 - xe cũ,585 triệu,Lắp ráp trong nước,Đã qua sử dụng,33000,Đen,5,Số tự động,
+74,Bán ô tô Hyundai SantaFe Tiêu chuẩn 2.2L - 2023 - xe mới,1.1 tỉ,Lắp ráp trong nước,Mới,0,Trắng,5,Số tự động,2
+75,Chính chủ bán xe Honda City 1.5 Top CVT sản xuất 2019,420 triệu,Nhập khẩu,Đã qua sử dụng,54000,0,4,Số tự động,
+76,Bán ô tô Hyundai Elantra MT - 2008 - xe cũ,165 triệu,Nhập khẩu,Đã qua sử dụng,100000,Trắng,4,Số tay,
+77,Bán ô tô Nissan Grand livina 1.8 MT - 2011 - xe cũ,210 triệu,Lắp ráp trong nước,Đã qua sử dụng,110000,Đen,5,Số tay,1
+78,Bán ô tô Volvo S90 Inscription LWB B6 AWD - 2022 - xe cũ,2.199 tỉ,Nhập khẩu,Đã qua sử dụng,3000,Đen,4,Số tự động,
+79,Bán ô tô Suzuki Carry 07 Chỗ - 1997 - xe cũ,115 triệu,Lắp ráp trong nước,Đã qua sử dụng,187800,Trắng,5,Số tay,
+80,Bán ô tô Hyundai Elantra 2.0 AT - 2018 - xe cũ,486 triệu,Lắp ráp trong nước,Đã qua sử dụng,70000,Trắng,4,Số tự động,2
+81,Bán ô tô BMW X6 xDrive35i - 2008 - xe cũ,530 triệu,Nhập khẩu,Đã qua sử dụng,66000,Đỏ,5,Số tự động,3
+82,Bán ô tô Porsche Cayenne S - 2019 - xe cũ,4.39 tỉ,Nhập khẩu,Đã qua sử dụng,37000,Trắng,5,Số tự động,
+83,Bán ô tô Hyundai Avante - 2012 - xe cũ,315 triệu,Lắp ráp trong nước,Đã qua sử dụng,118000,0,Trắng,Số tự động,
+84,Bán ô tô Hyundai Sonata 2.0 AT 4x2 - 2010 - xe cũ,375 triệu,Nhập khẩu,Đã qua sử dụng,86000,Đỏ,4,Số tự động,
+85,Bán ô tô Hyundai Sonata - 2010 - xe cũ,310 triệu,Nhập khẩu,Đã qua sử dụng,1,Ghi,4,Số tự động,
+86,Bán ô tô Volvo XC60 Incription - 2020 - xe cũ,1.74 tỉ,Nhập khẩu,Đã qua sử dụng,12445,0,-,Số tự động,
+87,Bán ô tô Lexus LX 570 - 2015 - xe cũ,6.25 tỉ,Nhập khẩu,Đã qua sử dụng,80000,Đen,5,Số tự động,
+88,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2016 - xe cũ,395 triệu,Lắp ráp trong nước,Đã qua sử dụng,36000,Trắng,5,Số tự động,
+89,Bán ô tô Mercedes Benz GLC 200 - 2023 - xe mới,1.737 tỉ,Lắp ráp trong nước,Mới,0,Trắng,5,Số tự động,2
+90,Bán ô tô Toyota Corolla Cross 1.8HV - 2020 - xe cũ,780 triệu,Nhập khẩu,Đã qua sử dụng,39000,Đen,5,Số tự động,
+92,Bán ô tô Lexus LX 570 - 2013 - xe cũ,3.5 tỉ,Nhập khẩu,Đã qua sử dụng,112345,Đen,5,Số tự động,5
+93,Bán ô tô Mercedes Benz GLC 200 - 2021 - xe cũ,1.49 tỉ,Lắp ráp trong nước,Đã qua sử dụng,27000,Đỏ,5,Số tự động,
+102,Bán ô tô Mercedes Benz GLC 300 4Matic - 2018 - xe cũ,1.329 tỉ,Lắp ráp trong nước,Đã qua sử dụng,0,Đen,5,Số tự động,
