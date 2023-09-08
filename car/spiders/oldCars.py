@@ -1,7 +1,5 @@
 import scrapy
 from car.items import CarItem
-import pandas as pd
-import numpy as np
 
 
 class OldcarsSpider(scrapy.Spider):
@@ -13,7 +11,7 @@ class OldcarsSpider(scrapy.Spider):
         # s = ""
         # e = ""
         pages = []
-        for i in range(17,19): 
+        for i in range(40,45): 
             domain = 'https://sanbonbanh.com/sellcar/page-{}/'.format(i)
             pages.append(domain)
 
@@ -44,8 +42,6 @@ class OldcarsSpider(scrapy.Spider):
             '/html/body/section[2]/div/div[2]/div[2]/div/div/ul/li[2]/strong/text()').extract_first() 
         item['doorNumber'] = response.xpath(
             '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[2]/td/text()').extract_first() 
-        # item['seatNumber'] = response.xpath(
-        #     '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[1]/td/text()').extract_first() 
         item['engine'] = response.xpath(
             '/html/body/section[2]/div/div[2]/div[2]/div/div/ul/li[9]/strong/text()').extract_first() 
         item['gear'] = response.xpath(
@@ -54,9 +50,3 @@ class OldcarsSpider(scrapy.Spider):
             '/html/body/section[2]/div/div[3]/div[1]/div[1]/div[1]/table/tbody/tr[8]/td/text()').extract_first() 
         
         yield item
-
-
-df = pd.read_csv('D:\DEBeginner\Project2\car\car.csv')
-
-df = df[['name','price','origin','status','KMtraveled','color','doorNumber','engine','fuelConsumption']]
-df.to_csv('car/car.csv', sep='\t', encoding='utf-8')

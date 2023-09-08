@@ -15,7 +15,6 @@ class CarItem(scrapy.Item):
     KMtraveled = scrapy.Field() #Số km đã đi
     status = scrapy.Field() #Tình trạng
     doorNumber = scrapy.Field() #Số cửa 
-    seatNumber = scrapy.Field # Số chỗ ngồi 
     engine = scrapy.Field() # Động cơ
     gear = scrapy.Field() #Hộp số
     fuelConsumption = scrapy.Field() #Mức độ tiêu thụ nguyên liệu
