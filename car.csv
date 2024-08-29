@@ -1,42 +1,462 @@
-
 KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
-150000,Trắng,5,Số tay,1,6,Bán ô tô Kia Morning EX - 2015 - xe cũ,Lắp ráp trong nước,165 triệu,5,Đã qua sử dụng,2015
-100000,Bạc,5,Số tự động,2,6,Bán ô tô Hyundai SantaFe Gold 2.0 AT - 2003 - xe cũ,Nhập khẩu,175 triệu,7,Đã qua sử dụng,2003
-107000,Bạc,4,Số tự động,,0,Bán ô tô Kia Sorento GATH 2.4L 2WD - 2014 - xe cũ,Lắp ráp trong nước,440 triệu,7,Đã qua sử dụng,2014
-19000,Đen,4,Số tự động,2,7,Bán ô tô BMW 3 Series 320i - 2019 - xe cũ,Nhập khẩu,939 triệu,5,Đã qua sử dụng,2019
-60893,Trắng,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2016 - xe cũ,Lắp ráp trong nước,270 triệu,5,Đã qua sử dụng,2016
-0,Xanh,5,Số tự động,,0,Bán ô tô Toyota Corolla Cross 1.8V - 2022 - xe mới,Nhập khẩu,816 triệu,5,Mới,2022
-85000,Đỏ,5,Số tự động,,0,Bán ô tô Hyundai i10 Grand 1.2 AT - 2015 - xe cũ,Nhập khẩu,325 triệu,5,Đã qua sử dụng,2015
-120000,Bạc,4,Số tay,,0,Bán ô tô Ford Ranger XLT 2.2L 4x4 MT - 2015 - xe cũ,Nhập khẩu,399 triệu,5,Đã qua sử dụng,2015
-41000,Trắng,5,Số tự động,,0,Bán ô tô Hyundai i10 Grand 1.2 AT - 2018 - xe cũ,Lắp ráp trong nước,348 triệu,5,Đã qua sử dụng,2018
-1800000,Đen,4,Số tay,2,9,Bán ô tô Ford Transit Limousine - 2016 - xe cũ,Lắp ráp trong nước,425 triệu,6,Đã qua sử dụng,2016
-10000,Ghi,4,Số tay,,0,Bán ô tô Toyota Hilux 2.5E 4x2 MT - 2012 - xe cũ,Nhập khẩu,329 triệu,5,Đã qua sử dụng,2012
-60936,Cát,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2016 - xe cũ,Lắp ráp trong nước,298 triệu,5,Đã qua sử dụng,2016
-45000,0,Trắng,Số tự động,,,Bán ô tô Mercedes Benz C class C200 - 2016 - xe cũ,Lắp ráp trong nước,739 triệu,-,Đã qua sử dụng,2016
-88000,Đỏ,5,Số tự động,1,6,Bán ô tô Kia Rio 1.4 AT - 2015 - xe cũ,Nhập khẩu,395 triệu,5,Đã qua sử dụng,2015
-9600,Đỏ,5,Số tự động,,0,Bán ô tô Toyota Corolla Cross 1.8V - 2020 - xe cũ,Nhập khẩu,800 triệu,5,Đã qua sử dụng,2020
-0,Đỏ,4,Số tự động,,0,Bán ô tô Mitsubishi Triton Athlete 4x2 AT - 2022 - xe cũ,Nhập khẩu,738 triệu,5,Đã qua sử dụng,2022
-50000,Trắng,5,Số tự động,1,7,Bán ô tô Honda CRV L - 2018 - xe cũ,Nhập khẩu,795 triệu,7,Đã qua sử dụng,2018
-58000,Đỏ,5,Số tự động,2,7,Bán ô tô Honda CRV 2.0 AT - 2016 - xe cũ,Lắp ráp trong nước,630 triệu,5,Đã qua sử dụng,2016
-63000,Bạc,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2014 - xe cũ,Lắp ráp trong nước,375 triệu,5,Đã qua sử dụng,2014
-100,Bạc,4,Số tay,1,7,Bán ô tô Daewoo Gentra SX 1.5 MT - 2011 - xe cũ,Lắp ráp trong nước,140 triệu,5,Đã qua sử dụng,2011
-40000,Xanh,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2019 - xe cũ,Lắp ráp trong nước,1.399 tỉ,5,Đã qua sử dụng,2019
-13200,Xám,5,Số tự động,,0,Bán ô tô Toyota Corolla Cross 1.8HV - 2021 - xe cũ,Nhập khẩu,850 triệu,5,Đã qua sử dụng,2021
-10,Trắng,5,Số tự động,,0,Bán ô tô Toyota Fortuner TRD Sportivo 4x4 AT - 2014 - xe cũ,Lắp ráp trong nước,530 triệu,8,Đã qua sử dụng,2014
-91000,Trắng,5,Số tự động,2,9,Bán ô tô Toyota Fortuner TRD Sportivo 4x2 AT - 2016 - xe cũ,Lắp ráp trong nước,585 triệu,8,Đã qua sử dụng,2016
-0,Nâu,5,Số tự động,,0,Bán ô tô Ford Everest Titanium Plus 2.0L 4x4 AT - 2023 - xe mới,Nhập khẩu,1.452 tỉ,7,Mới,2023
-40000,Đen,4,Số tự động,1,7,Bán ô tô Honda City 1.5 - 2020 - xe cũ,Lắp ráp trong nước,470 triệu,5,Đã qua sử dụng,2020
-70,Trắng,4,Số tay,1,5,Bán ô tô Kia Cerato 1.6 MT - 2017 - xe cũ,Lắp ráp trong nước,365 triệu,5,Đã qua sử dụng,2017
-82000,Đen,5,Số tự động,3,8,Bán ô tô Mitsubishi Pajero Sport 3.0G 4x4 AT Premium - 2018 - xe cũ,Nhập khẩu,799 triệu,7,Đã qua sử dụng,2018
-58000,Đỏ,4,Số tự động,,0,Bán ô tô Honda City 1.5TOP - 2017 - xe cũ,Lắp ráp trong nước,435 triệu,5,Đã qua sử dụng,2017
-50248,Vàng,4,Số tay,1,6,Bán ô tô Toyota Vios 1.5E MT - 2019 - xe cũ,Lắp ráp trong nước,380 triệu,5,Đã qua sử dụng,2019
-0,Trắng,5,Số tự động,,0,Bán ô tô Porsche Cayenne 3.0 V6 - 2022 - xe mới,Nhập khẩu,6.95 tỉ,5,Mới,2022
-180000,Trắng,4,Số tự động,,10,"Bán ô tô Nissan Navara 2.4 , 1 cầu - 2017 - xe cũ",Lắp ráp trong nước,400 triệu,5,Đã qua sử dụng,2017
-0,Trắng,5,Số tự động,,0,Bán ô tô Honda CRV 2.4 AT - 2010 - xe cũ,Lắp ráp trong nước,370 triệu,5,Đã qua sử dụng,2010
-0,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz S class S450L Luxury - 2018 - xe cũ,Lắp ráp trong nước,3.35 tỉ,5,Đã qua sử dụng,2018
-0,Đỏ,4,Số tự động,1,6,Bán ô tô Honda City RS 1.5 AT - 2023 - xe mới,Lắp ráp trong nước,544 triệu,5,Mới,2023
-20000,Đỏ,4,Số tự động,,0,Bán ô tô Kia Cerato 1.6 AT Luxury - 2021 - xe cũ,Lắp ráp trong nước,565 triệu,5,Đã qua sử dụng,2021
-25000,0,-,Số tự động,,0,Bán ô tô Hyundai Kona 1.6 Turbo - 2020 - xe cũ,Lắp ráp trong nước,586 triệu,5,Đã qua sử dụng,2020
-,,,,,,,,,,,
-,,,,,,,,,,,
-38000,Đỏ,5,Số tự động,,0,Bán ô tô Kia Carnival Premium 2.2D - 2022 - xe cũ,Lắp ráp trong nước,1.35 tỉ,7,Đã qua sử dụng,2022
+34000,11,4,Số tự động,Xăng,8,Hãng Ford bán Focus 1.5 Ecoboost Turbo 2017 một chủ chạy siêu ít,Trong nước,395 triệu,5,Đã qua sử dụng,2017
+30000,8,5,Số tự động,Xăng,6,Hãng bán Ford Ecosport Titanium 2019 chạy ít 30.000 km,Trong nước,465 triệu,5,Đã qua sử dụng,2019
+79000,0,4,Số tự động,,0,"Bán Ford Transit năm 2018, màu trắng, giá chỉ 540 triệu",Lắp ráp trong nước,540 triệu,16,Đã qua sử dụng,2018
+15000,10,4,Số tự động,Diesel,8,"Hãng Bán Ford Ranger XLS AT 4x4 2023, màu đen",Trong nước,715 triệu,5,Đã qua sử dụng,2023
+48000,Nâu,5,Số tự động,,0,"Suzuki XL7 2021,odo 48.000km giá 471 còn thương lượng mạnh",Nhập khẩu,471 triệu,5,Đã qua sử dụng,2021
+21000,10,5,Số tự động,Xăng,8,Chính hãng Bán Hyundai Kona Đặc biệt 2.0 ATH sx 2020 màu Xanh,Trong nước,555 triệu,5,Đã qua sử dụng,2020
+19000,Diesel,0,Số tự động,,,"Bán Ford Ranger năm sản xuất 2020, màu ghi, nhập khẩu nguyên chiếc, giá tốt",Nhập khẩu,665 triệu,Đỏ,Đã qua sử dụng,2020
+26252,Đỏ,5,Số tự động,,0,Hyundai Accent đặc biệt 2022 giá chỉ 468tr còn thương lượng,Lắp ráp trong nước,458 triệu,5,Đã qua sử dụng,2022
+7500,Trắng,5,Số tự động,,0,"Cần bán xe Honda Brio RS sản xuất 2021, màu trắng, xe nhập, giá 399tr",Nhập khẩu,399 triệu,5,Đã qua sử dụng,2021
+16000,Đỏ,5,Số tự động,,0,"Toyota Veloz Cross CVT Top 2023, màu đỏ, giá tốt nhất thị trường",Trong nước,657 triệu,5,Đã qua sử dụng,2023
+29800,Trắng,5,Số tự động,,0,"Mazda 3 1.5 Luxury năm 2022, màu trắng, giá tốt",Lắp ráp trong nước,578 triệu,5,Đã qua sử dụng,2022
+40000,Trắng,5,Số tự động,0,8,"Ford EcoSport Titanium 2021, full đồ chơi chính hãng bán",Trong nước,510 triệu,5,Đã qua sử dụng,2021
+51000,0,5,Số tự động,,0,Honda City L 2022 màu bạc giá 483tr còn thương lượng mạnh,Trong nước,483 triệu,5,Đã qua sử dụng,2022
+17424,Đỏ,5,Số tự động,,0,Hyundai Accent AT 2023 giá 463tr còn thương lượng mạnh,Trong nước,463 triệu,5,Đã qua sử dụng,2023
+13445,Đen,5,Số tự động,,0,"Toyota Vios G 2023, màu đen, giá 534tr còn thương lượng mạnh",Trong nước,534 triệu,5,Đã qua sử dụng,2023
+35600,Đỏ,5,Số tự động,,0,"Kia Seltos Premium 2021, màu đỏ, giá 605 triệu thương lượng mạnh",Trong nước,605 triệu,5,Đã qua sử dụng,2021
+25000,Nâu,4,Số tự động,0,10,"Ford Ranger XLS AT đèn Led 2023, hãng bán BH toàn quốc",Trong nước,675 triệu,5,Đã qua sử dụng,2023
+39878,Trắng,5,Số tự động,,0,"Mazda 3 1.5 Luxury 2022, màu trắng giá 574tr còn thương lượng",Lắp ráp trong nước,574 triệu,5,Đã qua sử dụng,2022
+33000,0,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x2 AT - 2020 - xe cũ,Nhập khẩu,890 triệu,7,Đã qua sử dụng,2020
+34302,Đen,5,Số tự động,,0,"Cần bán Honda City L sản xuất 2022, màu đen, giá chỉ 485 triệu",Trong nước,485 triệu,5,Đã qua sử dụng,2022
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+46000,0,5,Số tự động,,0,"VinFast Fadil Tiêu Chuẩn 2020, full option 100 triệu",Lắp ráp trong nước,329 triệu,5,Đã qua sử dụng,2020
+16000,Đen,4,Số tự động,Xăng,5,"Bán ô tô Rolls-Royce Ghost EWB sản xuất 2012, màu đen, xe nhập",Nhập khẩu,15.9 tỉ,4,Đã qua sử dụng,2012
+37000,,0,,,,"Cần bán xe Ford Ranger năm 2021, nhập khẩu nguyên chiếc",Nhập khẩu,1.03 tỉ,0,Đã qua sử dụng,2021
+28000,,0,,,,"Ranger số sàn 2018 , Odo 28.000km, giá 470 triệu",Nhập khẩu,470 triệu,0,Đã qua sử dụng,2018
+14000,0,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x2 AT - 2023 - xe cũ,Nhập khẩu,1.3 tỉ,7,Đã qua sử dụng,2023
+20000,Đỏ,5,Số tự động,Xăng,7,"Bán ô tô Kia Morning Xline sản xuất 2022, màu đỏ",Trong nước,389 triệu,5,Đã qua sử dụng,2022
+39000,Trắng,5,Số tự động,Xăng,5,"Bán Kia Carnival Signature sản xuất 2022, màu trắng, giá 1.399tỉ",Trong nước,1.399 tỉ,7,Đã qua sử dụng,2022
+23000,Đen,4,Số tự động,Xăng,5,"Cần bán Lexus ES 250 năm 2021, màu đen, nhập khẩu",Nhập khẩu,2.25 tỉ,5,Đã qua sử dụng,2021
+31000,Bạc,5,Số tự động,Hybrid,5,"Bán ô tô Toyota Highlander Limited sản xuất 2020, màu bạc, xe nhập",Nhập khẩu,3.59 tỉ,6,Đã qua sử dụng,2020
+19000,Xám (ghi),5,Số tự động,Xăng,5,"Cần bán Lexus LX 600 VIP sản xuất 2023, màu xám (ghi), nhập khẩu giá cạnh tranh",Nhập khẩu,9.8 tỉ,4,Đã qua sử dụng,2023
+63000,Trắng,5,Số tự động,Xăng,5,"Cần bán Porsche Macan năm sản xuất 2016, màu trắng, nhập khẩu",Nhập khẩu,1.69 tỉ,5,Đã qua sử dụng,2016
+34000,Đỏ,5,Số tự động,,0,"VinFast LUX A2.0 2.0 Plus 2020, màu đỏ giá cạnh tranh thị trường",Lắp ráp trong nước,573 triệu,5,Đã qua sử dụng,2020
+52698,Đen,5,Số tự động,,0,Xpander 1.5 ECO nhập khẩu 2022 giá thương lượng mạnh,Nhập khẩu,546 triệu,7,Đã qua sử dụng,2022
+55000,0,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x4 AT - 2019 - xe cũ,Nhập khẩu,935 triệu,7,Đã qua sử dụng,2019
+80000,Đen,4,Số tự động,Xăng,5,"Bán Mercedes-Benz E400 sản xuất 2013, màu đen",Trong nước,719 triệu,5,Đã qua sử dụng,2013
+28000,Đỏ,5,Số tự động,,0,Kia K3 Luxury 2022 giá tốt thị trường thương lượng mạnh,Lắp ráp trong nước,553 triệu,5,Đã qua sử dụng,2022
+46576,Trắng,5,Số tự động,,0,"Hyundai Elantra 2.0 AT 2020 Trắng, 521tr còn thương lượng mạnh",Trong nước,521 triệu,5,Đã qua sử dụng,2020
+20000,Trắng,5,Số tự động,,0,"Vinfast Fadil 2022 chỉ 20,000km xe zin đẹp như mới",Lắp ráp trong nước,344 triệu,5,Đã qua sử dụng,2022
+23000,Trắng,5,Số tự động,,0,"Kona 2.0 Tiêu Chuẩn 2021, odoo 23.000 giá chỉ 523tr thương lượng mạnh",Lắp ráp trong nước,523 triệu,5,Đã qua sử dụng,2021
+50000,Vàng,5,Số tự động,Xăng,5,"Cần bán Hyundai Santa Fe Premium sản xuất 2021, màu vàng giá cạnh tranh",Trong nước,1.06 tỉ,7,Đã qua sử dụng,2021
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+72000,Đen,5,Số tự động,Xăng,5,"Cần bán xe Lexus ES 350 năm sản xuất 2015, màu đen, nhập khẩu, giá tốt",Nhập khẩu,1.15 tỉ,5,Đã qua sử dụng,2015
+65000,,0,Số tay,,,Bán xe Ranger XLS số sàn 1 cầu có nắp thùng cao  - Xe 2019 - ODO: 65.000km - Xe bán tại Ford bảo hành 1 năm,Nhập khẩu,485 triệu,Đỏ,Đã qua sử dụng,2019
+13000,Đen,5,Số tự động,Xăng,5,"Bán Toyota Land Cruiser LC300 năm sản xuất 2023, màu đen, xe nhập, 5.15tỉ",Nhập khẩu,5.15 tỉ,7,Đã qua sử dụng,2023
+166682,,0,,,,Mua nhanh bán lẹ   Ranger XLS 1 cầu số tự động 2016 .450tr,Nhập khẩu,450 triệu,Đỏ,Đã qua sử dụng,2016
+58000,Trắng,5,Số tự động,Xăng,5,"Bán xe Lexus ES 250 năm sản xuất 2015, màu trắng, nhập khẩu nguyên chiếc",Nhập khẩu,1.199 tỉ,5,Đã qua sử dụng,2015
+14000,,0,Số tự động,,,Bán xe Everest Titanium siêu lướt 4x2 sx 2023 Odo 14.000km siêu lướt Còn bảo hành hãng tháng 4/2026 Giá 1.290.000.000,Nhập khẩu,1.29 tỉ,0,Đã qua sử dụng,2023
+35000,Trắng,5,Số tự động,Xăng,5,"Cần bán Porsche Cayenne sản xuất năm 2020, màu trắng, nhập khẩu, giá 4.279tỉ",Nhập khẩu,4.279 tỉ,5,Đã qua sử dụng,2020
+32000,Diesel,0,,,,Raptor 2020 ko niên hạn;  Odo 32.000km Giá bán : 985 triệu,Nhập khẩu,985 triệu,Đen,Đã qua sử dụng,2020
+7000,,0,Số tự động,,,"Cần bán Ford EcoSport titanium năm sản xuất 2020,  xe đẹp mới, xe nhập",Nhập khẩu,535 triệu,Đỏ,Đã qua sử dụng,2020
+102000,,0,Số tự động,,,"Bán xe Everest titanium 1 cầu 2018 Màu đen odo 102.000 km Camera 360, mâm lốp everest titanium nextgen Giá: 800 tr",Nhập khẩu,800 triệu,Đỏ,Đã qua sử dụng,2018
+144000,,0,,,,"Bán xe Ford Everest sản xuất 2014, màu vàng ghi, xe nhập, 445tr",Nhập khẩu,445 triệu,Ghi,Đã qua sử dụng,2014
+27000,,0,Số tự động,,,"Bán ô tô Ford Everest Titanium 4x4 2022 ODO 27.000km Chất xe zin toàn xe, Sẵn sàng giao ngay ạ",Nhập khẩu,1.085 tỉ,0,Đã qua sử dụng,2022
+90100,,0,Số tự động,,,RANGER WILDTRACK 4X4 2019 Nhập Thái Lan . Odo: 90.100.km  xe đẹp bao chất,Nhập khẩu,630 triệu,Đỏ,Đã qua sử dụng,2019
+19000,Diesel,0,Số tự động,,,"Bán Ford Ranger năm sản xuất 2020, màu ghi, nhập khẩu nguyên chiếc, giá tốt",Nhập khẩu,665 triệu,Đỏ,Đã qua sử dụng,2020
+49100,,0,Số tự động,,,Khủng Long cập bến  RAPTOR 2019 Nhập Thái Lan  Odo: 49.100km siêu lướt,Nhập khẩu,935 triệu,Đỏ,Đã qua sử dụng,2019
+38000,Đen,5,Số tự động,Xăng,5,"Cần bán Audi Q5 năm 2018, màu đen, nhập khẩu",Nhập khẩu,1.279 tỉ,5,Đã qua sử dụng,2018
+13000,Đen,5,Số tự động,Xăng,7,"Bán Jaguar F-Pace sản xuất năm 2017, màu đen, xe nhập, giá chỉ 1.55 tỉ",Nhập khẩu,1.55 tỉ,5,Đã qua sử dụng,2017
+49000,0,5,Số tự động,,0,"Suzuki XL7 AT 2022, 49.000km giá tốt thị trường",Nhập khẩu,515 triệu,5,Đã qua sử dụng,2022
+15,12,4,Số tự động,Diesel,10,Hãng bán Ranger Wildtrak Biturbo 2023 Next Gen lướt BH toàn quốc,Trong nước,889 triệu,5,Mới,2023
+59000,Xanh lam,5,Số tự động,Xăng,5,"Bán Mercedes-Benz V Class 250 AMG sản xuất 2020, màu xanh lam, nhập khẩu nguyên chiếc",Nhập khẩu,2.299 tỉ,7,Đã qua sử dụng,2020
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+53000,,0,,,,Ranger wildtrak biturbo 2020 - màu trắng - odo 53.000km Giá 719tr,Nhập khẩu,718 triệu,Đỏ,Đã qua sử dụng,2020
+15000,,0,Số tự động,,,"Bán xe siêu lướt Ford Ranger Wildtrack 2 cầu sx  2023  Odo 15.000Km Phụ kiện: full Chất xe zin toàn xe, Sẵn sàng giao ngay ạ",Trong nước,895 triệu,Trắng,Đã qua sử dụng,2023
+28000,Đỏ,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.8L 4x4 AT - 2020 - xe cũ,Nhập khẩu,835 triệu,5,Đã qua sử dụng,2020
+36000,,0,,,,"Ford Ranger XLS AT sx 2020 Odo 36.000km xem xe chỉ có rớt tiền nhận xe ạ Phụ kiện: Nắp thùng cuộn, Phim cách nhiệt, ghế da Giá  : 565tr",Nhập khẩu,565 triệu,Đỏ,Đã qua sử dụng,2020
+76000,Cam,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 3.2L 4x4 AT - 2016 - xe cũ,Nhập khẩu,555 triệu,5,Đã qua sử dụng,2016
+0,Đen,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2022 - xe cũ,Lắp ráp trong nước,860 triệu,5,Đã qua sử dụng,2022
+40000,Trắng,4,Số tự động,,0,Bán ô tô Mazda BT50 1.9L 4x2 AT - 2021 - xe cũ,Nhập khẩu,550 triệu,5,Đã qua sử dụng,2021
+80000,Vàng,4,Số tự động,,0,Bán ô tô Kia Cerato 1.6 AT - 2017 - xe cũ,Lắp ráp trong nước,395 triệu,5,Đã qua sử dụng,2017
+50000,Trắng,5,Số tự động,,0,Bán ô tô Kia Sedona 2.2 DAT Luxury - 2021 - xe cũ,Lắp ráp trong nước,969 triệu,7,Đã qua sử dụng,2021
+97000,Trắng,5,Số tự động,,0,Bán ô tô Toyota Fortuner TRD Sportivo 4x2 AT - 2016 - xe cũ,Lắp ráp trong nước,570 triệu,7,Đã qua sử dụng,2016
+0,Trắng,5,Số tự động,,0,Bán ô tô Kia Carnival Signature 2.2D - 2023 - xe mới,Lắp ráp trong nước,1.419 tỉ,7,Mới,2023
+79000,Đen,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2018 - xe cũ,Lắp ráp trong nước,415 triệu,5,Đã qua sử dụng,2018
+0,Đen,4,Số tự động,,0,Bán ô tô Hyundai Elantra 1.6 AT Tiêu chuẩn - 2023 - xe mới,Lắp ráp trong nước,539 triệu,5,Mới,2023
+62000,Vàng,4,Số tự động,,0,Bán ô tô Toyota Vios E CVT - 2023 - xe cũ,Lắp ráp trong nước,435 triệu,5,Đã qua sử dụng,2023
+50000,Trắng,5,Số tay,,0,Bán ô tô Hyundai i10 Grand 1.2 MT - 2019 - xe cũ,Lắp ráp trong nước,295 triệu,5,Đã qua sử dụng,2019
+9500,,0,,,,Siêu lướt Ranger Raptor 2024 Odo 9.500km Giá 1.275 triệu,Nhập khẩu,1.275 tỉ,Đỏ,Mới,2024
+0,Bạc,4,Số tay,,0,Bán ô tô Ford Transit SVP - 2018 - xe cũ,Lắp ráp trong nước,515 triệu,16,Đã qua sử dụng,2018
+37000,Đỏ,4,Số tay,,0,Bán ô tô Ford Ranger XLS 2.0L 4x2 MT - 2022 - xe cũ,Lắp ráp trong nước,610 triệu,5,Đã qua sử dụng,2022
+40000,Đỏ,5,Số tự động,,0,Bán ô tô Kia Carnival Premium 2.2D - 2021 - xe cũ,Lắp ráp trong nước,1.099 tỉ,8,Đã qua sử dụng,2021
+80000,Đen,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2019 - xe cũ,Nhập khẩu,6.65 tỉ,7,Đã qua sử dụng,2019
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+15000,Trắng,5,Số tự động,,0,Bán ô tô Porsche Macan 2.0 - 2022 - xe cũ,Nhập khẩu,3.3 tỉ,5,Đã qua sử dụng,2022
+52000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2017 - xe cũ,Lắp ráp trong nước,699 triệu,5,Đã qua sử dụng,2017
+50000,Đỏ,5,Số tự động,,0,Bán ô tô Hyundai Kona 2.0 ATH - 2019 - xe cũ,Lắp ráp trong nước,520 triệu,5,Đã qua sử dụng,2019
+68000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Vios G 1.5 CVT - 2022 - xe cũ,Lắp ráp trong nước,499 triệu,5,Đã qua sử dụng,2022
+31000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2020 - xe cũ,Nhập khẩu,950 triệu,5,Đã qua sử dụng,2020
+70706,Cát,4,Số tự động,,0,Bán ô tô Kia K3 2.0 AT - 2015 - xe cũ,Lắp ráp trong nước,375 triệu,5,Đã qua sử dụng,2015
+63000,Bạc,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2018 - xe cũ,Lắp ráp trong nước,750 triệu,5,Đã qua sử dụng,2018
+120,Trắng,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.5G - 2016 - xe cũ,Lắp ráp trong nước,560 triệu,7,Đã qua sử dụng,2016
+36000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLS 450 4Matic - 2021 - xe cũ,Nhập khẩu,4.379 tỉ,7,Đã qua sử dụng,2021
+146000,Bạc,4,Số tự động,,0,Bán ô tô Daewoo Lacetti CDX 1.6 AT - 2009 - xe cũ,Nhập khẩu,169 triệu,5,Đã qua sử dụng,2009
+80000,Trắng,5,Số tự động,,0,Bán ô tô BMW 2 Series 218i Active Tourer - 2016 - xe cũ,Nhập khẩu,465 triệu,5,Đã qua sử dụng,2016
+0,Đen,5,Số tự động,,0,Bán ô tô Lexus RX 350 - 2010 - xe cũ,Nhập khẩu,899 triệu,5,Đã qua sử dụng,2010
+6,Đen,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2014 - xe cũ,Lắp ráp trong nước,285 triệu,5,Đã qua sử dụng,2014
+0,0,RFD -  cầu sau,Số tự động,,0,Bán ô tô Hyundai Genesis 3.3 - 2012 - xe cũ,Nhập khẩu,680 triệu,5,Đã qua sử dụng,2012
+0,Đen,4,Số tự động,,0,Bán ô tô Kia Forte SLi 1.6 AT - 2009 - xe cũ,Nhập khẩu,255 triệu,5,Đã qua sử dụng,2009
+10000,Đen,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2021 - xe cũ,Lắp ráp trong nước,429 triệu,5,Đã qua sử dụng,2021
+25000,Đen,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.4G 4x2 AT - 2020 - xe cũ,Lắp ráp trong nước,915 triệu,7,Đã qua sử dụng,2020
+32000,Đỏ,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT Đặc Biệt - 2021 - xe cũ,Lắp ráp trong nước,458 triệu,5,Đã qua sử dụng,2021
+11000,Xanh,4,Số tự động,,0,Bán ô tô Mercedes Benz S class S450 4Matic - 2022 - xe cũ,Nhập khẩu,4.499 tỉ,5,Đã qua sử dụng,2022
+20000,Xanh,2,Số tự động,,0,Bán ô tô Ford Mustang 2.3 EcoBoost Fastback - 2019 - xe cũ,Nhập khẩu,1.98 tỉ,4,Đã qua sử dụng,2019
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+88000,Đen,4,Số tự động,,0,Bán ô tô Hyundai Elantra 1.6 AT - 2016 - xe cũ,Lắp ráp trong nước,386 triệu,5,Đã qua sử dụng,2016
+26999,Xanh,5,Số tự động,,0,Bán ô tô Porsche Cayenne Coupe - 2020 - xe cũ,Nhập khẩu,4.699 tỉ,5,Đã qua sử dụng,2020
+120000,Nâu,5,Số tự động,,0,Bán ô tô Kia Sedona 3.3L GATH - 2015 - xe cũ,Nhập khẩu,550 triệu,7,Đã qua sử dụng,2015
+86000,Trắng,4,Số tự động,,0,Bán ô tô Honda City 1.5 AT - 2014 - xe cũ,Lắp ráp trong nước,318 triệu,5,Đã qua sử dụng,2014
+78000,Xám,5,Số tự động,,0,Bán ô tô BMW X5 xDrive35i - 2012 - xe cũ,Nhập khẩu,720 triệu,7,Đã qua sử dụng,2012
+0,Trắng,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.7V 4x2 AT - 2014 - xe cũ,Lắp ráp trong nước,425 triệu,7,Đã qua sử dụng,2014
+38000,Xanh,5,Số tự động,,0,Bán ô tô Peugeot 5008 1.6 AT - 2018 - xe cũ,Lắp ráp trong nước,675 triệu,7,Đã qua sử dụng,2018
+100001,Đỏ,5,Số tự động,,0,Bán ô tô Kia Sportage GT Line - 2015 - xe cũ,Nhập khẩu,575 triệu,5,Đã qua sử dụng,2015
+59000,Trắng,5,Số tự động,,0,Bán ô tô Peugeot 3008 1.6 AT - 2019 - xe cũ,Lắp ráp trong nước,670 triệu,5,Đã qua sử dụng,2019
+38000,Trắng,5,Số tự động,,0,Bán ô tô Ford Explorer Limited 2.3L EcoBoost - 2022 - xe cũ,Nhập khẩu,1.968 tỉ,7,Đã qua sử dụng,2022
+49000,Trắng,5,Số tự động,,0,Bán ô tô Ford Explorer Limited 2.3L EcoBoost - 2018 - xe cũ,Nhập khẩu,1.16 tỉ,7,Đã qua sử dụng,2018
+140000,0,FWD -  cầu trước,Số tự động,,0,Bán ô tô Mercedes Benz E class - 2004 - xe cũ,Lắp ráp trong nước,168 triệu,5,Đã qua sử dụng,2004
+70000,Đen,4,Số tay,,0,Bán ô tô Chevrolet Cruze LT 1.6 MT - 2016 - xe cũ,Lắp ráp trong nước,260 triệu,5,Đã qua sử dụng,2016
+79000,Vàng,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2020 - xe cũ,Lắp ráp trong nước,465 triệu,5,Đã qua sử dụng,2020
+47000,Đen,5,Số tự động,,0,Bán ô tô Nissan X trail 2.5 SV 4WD - 2016 - xe cũ,Lắp ráp trong nước,505 triệu,7,Đã qua sử dụng,2016
+47000,Đen,4,Số tự động,,0,Bán ô tô Chevrolet Aveo LTZ 1.5 AT - 2016 - xe cũ,Lắp ráp trong nước,228 triệu,5,Đã qua sử dụng,2016
+42000,Bạc,5,Số tự động,,0,Bán ô tô Honda CRV L - 2020 - xe cũ,Lắp ráp trong nước,820 triệu,7,Đã qua sử dụng,2020
+48000,Nâu,5,Số tự động,,0,Bán ô tô Peugeot 3008 1.6 AT - 2018 - xe cũ,Lắp ráp trong nước,630 triệu,5,Đã qua sử dụng,2018
+0,Trắng,4,Số tự động,,0,Bán ô tô Mazda BT50 2.2L 4x2 ATH - 2018 - xe cũ,Nhập khẩu,425 triệu,5,Đã qua sử dụng,2018
+50000,Xanh,4,Số tự động,,0,Bán ô tô Lexus LS 500 - 2018 - xe cũ,Nhập khẩu,4.5 tỉ,5,Đã qua sử dụng,2018
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+30000,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2019 - xe cũ,Lắp ráp trong nước,1.385 tỉ,5,Đã qua sử dụng,2019
+28000,0,5,Số tự động,,0,Bán xe Hyundai Tucson 2.0 ATH 2020,Trong nước,735 triệu,5,Đã qua sử dụng,2020
+40000,Trắng,5,Số tự động,,0,Bán ô tô BMW X4 xDrive20i - 2017 - xe cũ,Nhập khẩu,1.299 tỉ,5,Đã qua sử dụng,2017
+78000,Vàng,4,Số tự động,,0,Bán ô tô Toyota Camry 2.0E - 2018 - xe cũ,Lắp ráp trong nước,655 triệu,5,Đã qua sử dụng,2018
+0,Bạc,4,Số tay,,0,Bán ô tô Ford Transit Tiêu chuẩn - 2023 - xe mới,Lắp ráp trong nước,789 triệu,16,Mới,2023
+120000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2013 - xe cũ,Lắp ráp trong nước,495 triệu,5,Đã qua sử dụng,2013
+0,Trắng,4,Số tự động,,0,Bán ô tô Mitsubishi Attrage 1.2 CVT - 2023 - xe mới,Nhập khẩu,457 triệu,5,Mới,2023
+10000,Đỏ,5,Số tự động,,0,Bán ô tô Hyundai i10 1.2 AT - 2022 - xe cũ,Lắp ráp trong nước,392 triệu,5,Đã qua sử dụng,2022
+75000,Bạc,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.4G 4x2 MT - 2017 - xe cũ,Nhập khẩu,675 triệu,7,Đã qua sử dụng,2017
+16140,Vàng,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2023 - xe cũ,Lắp ráp trong nước,465 triệu,5,Đã qua sử dụng,2023
+14000,Xanh,5,Số tay,,0,Bán ô tô Kia Pride CD5 - 2002 - xe cũ,Lắp ráp trong nước,75 triệu,5,Đã qua sử dụng,2002
+33000,Cam,5,Số tự động,,0,Bán ô tô Honda Brio RS - 2020 - xe cũ,Nhập khẩu,385 triệu,5,Đã qua sử dụng,2020
+24000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Vios E CVT - 2023 - xe cũ,Lắp ráp trong nước,495 triệu,5,Đã qua sử dụng,2023
+35000,Xanh,4,Số tự động,,0,Bán ô tô Mazda BT50 Deluxe 2.2L 4x2 AT - 2021 - xe cũ,Nhập khẩu,560 triệu,5,Đã qua sử dụng,2021
+110000,Bạc,5,Số tự động,,0,Bán ô tô Ford Escape XLS 2.3L 4x2 AT - 2010 - xe cũ,Lắp ráp trong nước,265 triệu,5,Đã qua sử dụng,2010
+0,Xám,5,Số tự động,,0,Bán ô tô Lexus GX 550 - 2023 - xe mới,Nhập khẩu,5.97 tỉ,7,Mới,2023
+72000,Xanh,5,Số tự động,,0,Bán ô tô BMW 1 Series 116i - 2013 - xe cũ,Nhập khẩu,399 triệu,5,Đã qua sử dụng,2013
+20000,Đỏ,5,Số tự động,,0,Bán ô tô Lexus RX 300 - 2021 - xe cũ,Nhập khẩu,2.85 tỉ,5,Đã qua sử dụng,2021
+50000,Đỏ,4,Số tự động,,0,Bán ô tô Kia Cerato 2.0 AT Premium - 2021 - xe cũ,Lắp ráp trong nước,559 triệu,5,Đã qua sử dụng,2021
+60000,Bạc,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2016 - xe cũ,Lắp ráp trong nước,336 triệu,5,Đã qua sử dụng,2016
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+28000,Trắng,5,Số tự động,,0,Bán ô tô Suzuki Swift GLX 1.2 AT - 2019 - xe cũ,Nhập khẩu,448 triệu,5,Đã qua sử dụng,2019
+9000,Trắng,5,Số tự động,,0,Bán ô tô Mazda 2 Sport Premium - 2020 - xe cũ,Nhập khẩu,455 triệu,5,Đã qua sử dụng,2020
+0,Trắng,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x2 AT - 2022 - xe cũ,Nhập khẩu,1.02 tỉ,7,Đã qua sử dụng,2022
+40000,Trắng,4,Số tự động,,0,Bán ô tô Mazda BT50 1.9L 4x2 AT - 2021 - xe cũ,Nhập khẩu,555 triệu,5,Đã qua sử dụng,2021
+37000,Trắng,4,Số tự động,,0,Bán ô tô Mazda 2 Luxury - 2019 - xe cũ,Nhập khẩu,395 triệu,5,Đã qua sử dụng,2019
+70000,Xám,5,Số tự động,,0,Bán ô tô Chevrolet Orlando LTZ 1.8 AT - 2016 - xe cũ,Lắp ráp trong nước,345 triệu,7,Đã qua sử dụng,2016
+50000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2020 - xe cũ,Nhập khẩu,950 triệu,5,Đã qua sử dụng,2020
+43000,Đen,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.4G 4x2 AT - 2020 - xe cũ,Lắp ráp trong nước,918 triệu,7,Đã qua sử dụng,2020
+48000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2020 - xe cũ,Lắp ráp trong nước,1.69 tỉ,5,Đã qua sử dụng,2020
+30000,Trắng,4,Số tự động,,0,Bán ô tô Audi A6 1.8 TFSI - 2015 - xe cũ,Nhập khẩu,890 triệu,5,Đã qua sử dụng,2015
+29000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 200 - 2019 - xe cũ,Lắp ráp trong nước,1.15 tỉ,5,Đã qua sử dụng,2019
+47000,Xanh,4,Số tự động,,0,Bán ô tô Mazda 6 2.0L Premium - 2017 - xe cũ,Lắp ráp trong nước,520 triệu,5,Đã qua sử dụng,2017
+0,Trắng,5,Số tự động,,0,Bán ô tô Mitsubishi Pajero Sport 2.4D 4x4 AT - 2021 - xe cũ,Nhập khẩu,1.02 tỉ,7,Đã qua sử dụng,2021
+15000,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E200 Exclusive - 2022 - xe cũ,Lắp ráp trong nước,1.919 tỉ,5,Đã qua sử dụng,2022
+50000,Trắng,5,Số tự động,,0,Bán ô tô Porsche Cayenne 3.6 V6 - 2014 - xe cũ,Nhập khẩu,1.59 tỉ,5,Đã qua sử dụng,2014
+1000,Trắng,5,Số tay,,0,Bán ô tô Daewoo Matiz SE 0.8 MT - 2008 - xe cũ,Lắp ráp trong nước,42 triệu,5,Đã qua sử dụng,2008
+0,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C200 Avantgarde Plus - 2023 - xe cũ,Lắp ráp trong nước,1.49 tỉ,5,Đã qua sử dụng,2023
+93000,Xanh,4,Số tự động,,0,Bán ô tô Ford Fiesta Titanium 1.5 AT - 2016 - xe cũ,Lắp ráp trong nước,299 triệu,5,Đã qua sử dụng,2016
+0,Trắng,4,Số tự động,,0,Bán ô tô Porsche Panamera 3.6 V6 - 2014 - xe cũ,Nhập khẩu,1.62 tỉ,4,Đã qua sử dụng,2014
+62000,Cát,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2014 - xe cũ,Lắp ráp trong nước,350 triệu,5,Đã qua sử dụng,2014
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+96000,Đỏ,5,Số tự động,,0,Bán ô tô Kia Picanto S 1.25 AT - 2013 - xe cũ,Lắp ráp trong nước,238 triệu,5,Đã qua sử dụng,2013
+800000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLK Class GLK300 4Matic - 2013 - xe cũ,Lắp ráp trong nước,560 triệu,5,Đã qua sử dụng,2013
+28000,Đỏ,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.8L 4x4 AT - 2020 - xe cũ,Nhập khẩu,835 triệu,5,Đã qua sử dụng,2020
+37000,-,5,Số tay,,0,Bán ô tô Mitsubishi Xpander 1.5 MT - 2021 - xe cũ,Nhập khẩu,468 triệu,7,Đã qua sử dụng,2021
+6800,-,4,Số tay,,0,Bán ô tô Chevrolet Cruze LT 1.6L - 2017 - xe cũ,Lắp ráp trong nước,265 triệu,5,Đã qua sử dụng,2017
+60000,Đen,4,Số tay,,0,Bán ô tô Ford Ranger XLS 2.2L 4x2 MT - 2020 - xe cũ,Nhập khẩu,458 triệu,5,Đã qua sử dụng,2020
+110000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E250 AMG - 2015 - xe cũ,Lắp ráp trong nước,689 triệu,5,Đã qua sử dụng,2015
+38000,Trắng,5,Số tay,,0,Bán ô tô Mitsubishi Xpander 1.5 MT - 2021 - xe cũ,Nhập khẩu,470 triệu,7,Đã qua sử dụng,2021
+12345,Đen,4,Số tự động,,0,Bán ô tô Kia Forte SX 1.6 AT - 2011 - xe cũ,Lắp ráp trong nước,266 triệu,5,Đã qua sử dụng,2011
+80000,Trắng,4,Số tự động,,0,Bán ô tô Chevrolet Cruze LTZ 1.8L - 2017 - xe cũ,Lắp ráp trong nước,325 triệu,5,Đã qua sử dụng,2017
+88000,Trắng,5,Số tay,,0,Bán ô tô Ford Everest 2.5L 4x2 MT - 2014 - xe cũ,Lắp ráp trong nước,398 triệu,7,Đã qua sử dụng,2014
+80966,Cát,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2017 - xe cũ,Lắp ráp trong nước,269 triệu,5,Đã qua sử dụng,2017
+138000,Bạc,4,Số tự động,,0,Bán ô tô Kia Rio EX 1.4 AT - 2009 - xe cũ,Nhập khẩu,205 triệu,5,Đã qua sử dụng,2009
+60000,Trắng,2,Số tay,,0,"Bán ô tô Isuzu QKR 3,5 tấn - 2021 - xe cũ",Nhập khẩu,404 triệu,3,Đã qua sử dụng,2021
+65000,Bạc,4,Số tự động,,0,Bán ô tô Ford Focus Titanium 2.0 AT - 2014 - xe cũ,Lắp ráp trong nước,336 triệu,5,Đã qua sử dụng,2014
+80000,Trắng,5,Số tự động,,0,Bán ô tô Kia Sedona 2.2 DAT Luxury - 2019 - xe cũ,Lắp ráp trong nước,846 triệu,7,Đã qua sử dụng,2019
+100000,Bạc,5,Số tay,,0,Bán ô tô Daewoo Matiz SE 0.8 MT - 2006 - xe cũ,Nhập khẩu,35 triệu,5,Đã qua sử dụng,2006
+50000,-,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 ATH - 2020 - xe cũ,Lắp ráp trong nước,446 triệu,5,Đã qua sử dụng,2020
+19000,Nâu,5,Số tự động,,0,Bán ô tô Peugeot 3008 Active 1.6 AT - 2020 - xe cũ,Lắp ráp trong nước,695 triệu,5,Đã qua sử dụng,2020
+0,Trắng,5,Số tự động,,0,Bán ô tô Kia Sorento 2.2 DAT Premium - 2020 - xe cũ,Lắp ráp trong nước,690 triệu,7,Đã qua sử dụng,2020
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+39000,Đen,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.4L 4x2 AT - 2021 - xe cũ,Nhập khẩu,685 triệu,5,Đã qua sử dụng,2021
+58000,Cam,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2021 - xe cũ,Nhập khẩu,760 triệu,5,Đã qua sử dụng,2021
+0,Xanh,4,Số tự động,,0,Bán ô tô Audi A6 2.0T - 2010 - xe cũ,Nhập khẩu,299 triệu,5,Đã qua sử dụng,2010
+47000,Xanh,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.2L 4x2 AT - 2021 - xe cũ,Nhập khẩu,575 triệu,5,Đã qua sử dụng,2021
+0,Đen,5,Số tay,,0,Bán ô tô Chevrolet Vivant SE - 2009 - xe cũ,Lắp ráp trong nước,98 triệu,7,Đã qua sử dụng,2009
+170000,Đen,4,Số tự động,,0,Bán ô tô Honda Civic 1.8 AT - 2008 - xe cũ,Lắp ráp trong nước,216 triệu,5,Đã qua sử dụng,2008
+50000,Trắng,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.7V 4x4 AT - 2020 - xe cũ,Nhập khẩu,865 triệu,7,Đã qua sử dụng,2020
+49000,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2019 - xe cũ,Lắp ráp trong nước,1.199 tỉ,5,Đã qua sử dụng,2019
+0,Đen,5,Số tự động,,0,Bán ô tô Lexus RX 350 Premium - 2023 - xe mới,Nhập khẩu,3.43 tỉ,5,Mới,2023
+150000,-,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2015 - xe cũ,Nhập khẩu,3.45 tỉ,7,Đã qua sử dụng,2015
+103000,Trắng,4,Số tay,,0,Bán ô tô Chevrolet Cruze LT 1.6L - 2017 - xe cũ,Lắp ráp trong nước,262 triệu,5,Đã qua sử dụng,2017
+59200,Đỏ,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2018 - xe cũ,Lắp ráp trong nước,979 triệu,5,Đã qua sử dụng,2018
+72000,Bạc,4,Số tự động,,0,Bán ô tô Nissan Navara EL 2.5AT 2WD - 2016 - xe cũ,Nhập khẩu,369 triệu,5,Đã qua sử dụng,2016
+91000,Đen,5,Số tự động,,0,Bán ô tô Ford Escape XLS 2.3L 4x2 AT - 2013 - xe cũ,Lắp ráp trong nước,330 triệu,5,Đã qua sử dụng,2013
+78000,Cát,5,Số tự động,,0,Bán ô tô Ford Escape XLS 2.3L 4x2 AT - 2013 - xe cũ,Lắp ráp trong nước,328 triệu,5,Đã qua sử dụng,2013
+7000,Trắng,4,Số tự động,,0,Bán ô tô Kia K3 Luxury 1.6 AT - 2023 - xe cũ,Lắp ráp trong nước,620 triệu,5,Đã qua sử dụng,2023
+82853,Nâu,4,Số tự động,,0,Bán ô tô Toyota Corolla altis 2.0V - 2015 - xe cũ,Lắp ráp trong nước,490 triệu,5,Đã qua sử dụng,2015
+86000,Bạc,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.4L 4x2 AT - 2022 - xe cũ,Lắp ráp trong nước,990 triệu,7,Đã qua sử dụng,2022
+9600,Đen,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5 AT - 2021 - xe cũ,Lắp ráp trong nước,519 triệu,5,Đã qua sử dụng,2021
+51000,Cát,4,Số tay,,0,Bán ô tô Toyota Vios E 1.5 MT - 2021 - xe cũ,Lắp ráp trong nước,395 triệu,5,Đã qua sử dụng,2021
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+8000,0,-,Số tự động,,0,Bán ô tô Porsche Panamera - 2022 - xe cũ,Nhập khẩu,4.35 tỉ,5,Đã qua sử dụng,2022
+0,Trắng,5,Số tự động,,0,Bán ô tô Audi Q5 3.2 AT - 2009 - xe cũ,Nhập khẩu,425 triệu,5,Đã qua sử dụng,2009
+30000,Xanh,5,Số tự động,,0,Bán ô tô Lexus RX 300 - 2020 - xe cũ,Nhập khẩu,2.868 tỉ,5,Đã qua sử dụng,2020
+22000,Nâu,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2022 - xe cũ,Lắp ráp trong nước,450 triệu,5,Đã qua sử dụng,2022
+98000,Trắng,4,Số tự động,,0,Bán ô tô Honda City 1.5 AT - 2014 - xe cũ,Lắp ráp trong nước,319 triệu,5,Đã qua sử dụng,2014
+0,Bạc,5,Số tự động,,0,Bán ô tô Audi Q7 3.6 AT - 2006 - xe cũ,Nhập khẩu,295 triệu,7,Đã qua sử dụng,2006
+80000,Trắng,5,Số tự động,,0,Bán ô tô Kia Sedona 3.3L GATH - 2016 - xe cũ,Lắp ráp trong nước,595 triệu,7,Đã qua sử dụng,2016
+30000,Trắng,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2019 - xe cũ,Lắp ráp trong nước,410 triệu,5,Đã qua sử dụng,2019
+10000,0,-,Số tự động,,0,Bán ô tô Porsche Panamera - 2022 - xe cũ,Nhập khẩu,5.4 tỉ,4,Đã qua sử dụng,2022
+58000,Trắng,4,Số tay,,0,Bán ô tô Ford Ranger XLS 2.2L 4x2 MT - 2020 - xe cũ,Nhập khẩu,479 triệu,5,Đã qua sử dụng,2020
+110000,Xanh,4,Số tự động,,0,Bán ô tô Lexus LS 400 - 2000 - xe cũ,Nhập khẩu,93 triệu,5,Đã qua sử dụng,2000
+88000,Đen,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2015 - xe cũ,Lắp ráp trong nước,245 triệu,5,Đã qua sử dụng,2015
+42000,Trắng,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2018 - xe cũ,Lắp ráp trong nước,445 triệu,5,Đã qua sử dụng,2018
+68000,-,5,Số tự động,,0,Bán ô tô Kia Sedona 2.2L DATH - 2017 - xe cũ,Lắp ráp trong nước,688 triệu,7,Đã qua sử dụng,2017
+70000,Trắng,4,Số tự động,,0,Bán ô tô Kia Cerato 1.6 AT - 2017 - xe cũ,Lắp ráp trong nước,420 triệu,5,Đã qua sử dụng,2017
+60000,Đỏ,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2016 - xe cũ,Lắp ráp trong nước,330 triệu,5,Đã qua sử dụng,2016
+83000,-,5,Số tự động,,0,Bán ô tô Chevrolet Trailblazer LT 2.5L VGT 4x2 AT - 2018 - xe cũ,Nhập khẩu,528 triệu,7,Đã qua sử dụng,2018
+20000,Trắng,4,Số tự động,,0,Bán ô tô Mazda 6 Premium 2.0 AT - 2022 - xe cũ,Lắp ráp trong nước,779 triệu,5,Đã qua sử dụng,2022
+66000,Đen,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5E CVT - 2016 - xe cũ,Lắp ráp trong nước,358 triệu,5,Đã qua sử dụng,2016
+1100,Trắng,5,Số tự động,,0,Bán ô tô Honda CRV L - 2023 - xe cũ,Lắp ráp trong nước,1.1 tỉ,7,Đã qua sử dụng,2023
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+80000,Bạc,4,Số tự động,,0,Bán ô tô Hyundai i10 Grand 1.2 AT - 2019 - xe cũ,Lắp ráp trong nước,308 triệu,5,Đã qua sử dụng,2019
+45000,Cát,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x2 AT - 2021 - xe cũ,Nhập khẩu,958 triệu,7,Đã qua sử dụng,2021
+47000,Trắng,4,Số tự động,,0,Bán ô tô Mazda 3 1.5L Luxury - 2019 - xe cũ,Lắp ráp trong nước,495 triệu,5,Đã qua sử dụng,2019
+38000,0,FWD -  cầu trước,Số tự động,,0,Bán ô tô Peugeot 5008 1.6 AL - 2018 - xe cũ,Lắp ráp trong nước,675 triệu,7,Đã qua sử dụng,2018
+80000,Đen,4,Số tự động,,0,Bán ô tô Toyota Corolla altis 1.8G AT - 2016 - xe cũ,Lắp ráp trong nước,488 triệu,5,Đã qua sử dụng,2016
+8000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry LE 2.4 - 2008 - xe cũ,Nhập khẩu,318 triệu,5,Đã qua sử dụng,2008
+55000,Trắng,4,Số tự động,,0,Bán ô tô Mazda 3 2.0 AT - 2018 - xe cũ,Lắp ráp trong nước,489 triệu,5,Đã qua sử dụng,2018
+90000,Trắng,5,Số tự động,,0,Bán ô tô Kia Sorento DATH - 2017 - xe cũ,Lắp ráp trong nước,610 triệu,7,Đã qua sử dụng,2017
+12000,Xanh,4,Số tự động,,0,Bán ô tô Honda Civic 1.8 AT - 2008 - xe cũ,Lắp ráp trong nước,245 triệu,5,Đã qua sử dụng,2008
+34000,Đen,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x2 AT - 2019 - xe cũ,Nhập khẩu,845 triệu,7,Đã qua sử dụng,2019
+27000,Đen,5,Số tự động,,0,Bán ô tô Porsche Cayenne Coupe - 2020 - xe cũ,Nhập khẩu,4.699 tỉ,5,Đã qua sử dụng,2020
+64000,Bạc,4,Số tự động,,0,Bán ô tô Ford Focus Titanium 2.0 AT - 2014 - xe cũ,Lắp ráp trong nước,336 triệu,5,Đã qua sử dụng,2014
+0,Đen,5,Số tự động,,0,Bán ô tô Kia Carens CRDi 2.0 AT - 2008 - xe cũ,Nhập khẩu,260 triệu,7,Đã qua sử dụng,2008
+20000,Xanh,4,Số tự động,,0,Bán ô tô Kia K3 Premium 1.6 AT - 2021 - xe cũ,Lắp ráp trong nước,565 triệu,5,Đã qua sử dụng,2021
+62000,Đỏ,4,Số tự động,,0,Bán ô tô Mazda 2 1.5 AT - 2018 - xe cũ,Lắp ráp trong nước,385 triệu,5,Đã qua sử dụng,2018
+70000,Vàng,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2016 - xe cũ,Nhập khẩu,5.35 tỉ,7,Đã qua sử dụng,2016
+3600,Trắng,5,Số tự động,,0,Bán ô tô Kia Carnival Signature 2.2D - 2023 - xe cũ,Lắp ráp trong nước,1.468 tỉ,7,Đã qua sử dụng,2023
+1600000,Trắng,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2015 - xe cũ,Nhập khẩu,3.39 tỉ,7,Đã qua sử dụng,2015
+0,Đỏ,4,Số tự động,,0,Bán ô tô Ford Focus Trend 1.5L - 2017 - xe cũ,Lắp ráp trong nước,385 triệu,5,Đã qua sử dụng,2017
+60000,Cát,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2012 - xe cũ,Nhập khẩu,2.4 tỉ,7,Đã qua sử dụng,2012
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+0,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2023 - xe mới,Lắp ráp trong nước,2.799 tỉ,5,Mới,2023
+4400,Đồng,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.4L 4x2 MT - 2023 - xe cũ,Lắp ráp trong nước,990 triệu,7,Đã qua sử dụng,2023
+0,Bạc,4,Số tự động,,0,Bán ô tô Toyota Camry LE 2.4 - 2007 - xe cũ,Nhập khẩu,290 triệu,5,Đã qua sử dụng,2007
+33333,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2021 - xe cũ,Lắp ráp trong nước,1.939 tỉ,5,Đã qua sử dụng,2021
+0,Đỏ,5,Số tự động,,0,Bán ô tô Lexus RX 350 - 2019 - xe cũ,Nhập khẩu,2.75 tỉ,5,Đã qua sử dụng,2019
+92000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2011 - xe cũ,Lắp ráp trong nước,359 triệu,5,Đã qua sử dụng,2011
+20000,Bạc,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT Đặc Biệt - 2022 - xe cũ,Lắp ráp trong nước,468 triệu,5,Đã qua sử dụng,2022
+29000,Cát,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT Đặc Biệt - 2021 - xe cũ,Lắp ráp trong nước,459 triệu,5,Đã qua sử dụng,2021
+120000,Bạc,4,Số tay,,0,Bán ô tô Daewoo Lacetti EX 1.6 MT - 2004 - xe cũ,Lắp ráp trong nước,89 triệu,5,Đã qua sử dụng,2004
+5000,Trắng,5,Số tự động,,0,Bán ô tô BMW X5 xDrive40i xLine - 2022 - xe cũ,Nhập khẩu,3.45 tỉ,7,Đã qua sử dụng,2022
+117000,Xanh,5,Số tự động,,0,Bán ô tô Kia Rondo GAT Deluxe - 2019 - xe cũ,Lắp ráp trong nước,415 triệu,7,Đã qua sử dụng,2019
+0,Trắng,4,Số tự động,,0,Bán ô tô Mitsubishi Attrage 1.2 CVT - 2023 - xe mới,Nhập khẩu,457 triệu,5,Mới,2023
+35000,Đen,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.4L 4x2 AT - 2021 - xe cũ,Nhập khẩu,655 triệu,5,Đã qua sử dụng,2021
+38000,Xanh,5,Số tự động,,0,Bán ô tô Peugeot 5008 1.6 AT - 2018 - xe cũ,Lắp ráp trong nước,675 triệu,7,Đã qua sử dụng,2018
+150000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz ML Class ML350 - 2005 - xe cũ,Nhập khẩu,199 triệu,5,Đã qua sử dụng,2005
+130000,Đen,4,Số tay,,0,Bán ô tô Toyota Corolla altis 1.8G MT - 2007 - xe cũ,Lắp ráp trong nước,240 triệu,5,Đã qua sử dụng,2007
+0,Bạc,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2016 - xe cũ,Lắp ráp trong nước,279 triệu,5,Đã qua sử dụng,2016
+47000,Đỏ,5,Số tự động,,0,Bán ô tô Kia Sedona 3.3L GATH - 2016 - xe cũ,Lắp ráp trong nước,626 triệu,7,Đã qua sử dụng,2016
+13000,Trắng,4,Số tự động,,0,Bán ô tô BMW 5 Series 530i M Sport - 2022 - xe cũ,Nhập khẩu,2.566 tỉ,5,Đã qua sử dụng,2022
+35000,Cam,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2020 - xe cũ,Lắp ráp trong nước,478 triệu,5,Đã qua sử dụng,2020
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+0,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2023 - xe mới,Lắp ráp trong nước,1.911 tỉ,5,Mới,2023
+1400000,Đen,4,Số tay,,0,Bán ô tô Chevrolet Cruze LS 1.6 MT - 2015 - xe cũ,Lắp ráp trong nước,250 triệu,5,Đã qua sử dụng,2015
+9000,Vàng,5,Số tự động,,0,Bán ô tô Lexus LX 570 - 2019 - xe cũ,Nhập khẩu,6.45 tỉ,7,Đã qua sử dụng,2019
+20000,Trắng,5,Số tự động,,0,Bán ô tô Lexus RX 300 F Sport - 2022 - xe cũ,Nhập khẩu,3.189 tỉ,5,Đã qua sử dụng,2022
+26000,Đỏ,5,Số tự động,,0,Bán ô tô Peugeot 3008 GT - 2022 - xe cũ,Lắp ráp trong nước,899 triệu,5,Đã qua sử dụng,2022
+40000,Trắng,4,Số tự động,,0,Bán ô tô BMW 3 Series 320i - 2015 - xe cũ,Nhập khẩu,620 triệu,5,Đã qua sử dụng,2015
+8000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz GLE Class GLE 400 4Matic Coupe - 2015 - xe cũ,Nhập khẩu,1.95 tỉ,5,Đã qua sử dụng,2015
+0,Nâu,5,Số tự động,,0,Bán ô tô Honda CRV EX-L 2.4 AT - 2013 - xe cũ,Nhập khẩu,485 triệu,5,Đã qua sử dụng,2013
+60000,Trắng,5,Số tự động,,0,Bán ô tô Ford Everest Trend 2.0L 4x2 AT - 2019 - xe cũ,Nhập khẩu,798 triệu,7,Đã qua sử dụng,2019
+0,Xanh,5,Số tự động,,0,Bán ô tô Kia Sorento Premium 2.2 AT AWD - 2023 - xe mới,Lắp ráp trong nước,1.234 tỉ,7,Mới,2023
+60000,Trắng,5,Số tự động,,0,Bán ô tô Honda CRV G - 2019 - xe cũ,Nhập khẩu,729 triệu,7,Đã qua sử dụng,2019
+91000,Đen,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2016 - xe cũ,Lắp ráp trong nước,305 triệu,5,Đã qua sử dụng,2016
+72565,Đỏ,5,Số tự động,,0,Bán ô tô Kia Rio 1.4 AT - 2014 - xe cũ,Nhập khẩu,320 triệu,5,Đã qua sử dụng,2014
+29000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C200 Exclusive - 2020 - xe cũ,Lắp ráp trong nước,1.138 tỉ,5,Đã qua sử dụng,2020
+36200,Trắng,4,Số tự động,,0,Bán ô tô Toyota Camry 2.0G - 2021 - xe cũ,Nhập khẩu,860 triệu,5,Đã qua sử dụng,2021
+50000,Bạc,4,Số tự động,,0,Bán ô tô Honda City 1.5 - 2019 - xe cũ,Lắp ráp trong nước,418 triệu,5,Đã qua sử dụng,2019
+45000,Cát,5,Số tự động,,0,Bán ô tô Lexus LX 570 Super Sport - 2018 - xe cũ,Nhập khẩu,5.899 tỉ,7,Đã qua sử dụng,2018
+0,Trắng,5,Số tự động,,0,Bán ô tô Kia Sorento GATH - 2018 - xe cũ,Lắp ráp trong nước,615 triệu,7,Đã qua sử dụng,2018
+90000,-,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2017 - xe cũ,Lắp ráp trong nước,299 triệu,5,Đã qua sử dụng,2017
+11111,Đỏ,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C200 Avantgarde - 2022 - xe cũ,Lắp ráp trong nước,1.298 tỉ,5,Đã qua sử dụng,2022
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+6200,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2022 - xe cũ,Lắp ráp trong nước,2.079 tỉ,5,Đã qua sử dụng,2022
+85000,Vàng,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.2L 4x2 AT - 2016 - xe cũ,Nhập khẩu,375 triệu,5,Đã qua sử dụng,2016
+35000,-,4,Số tự động,,0,Bán ô tô Mazda BT50 Deluxe 2.2L 4x2 AT - 2021 - xe cũ,Nhập khẩu,562 triệu,5,Đã qua sử dụng,2021
+90000,-,5,Số tự động,,0,Bán ô tô Mercedes Benz ML Class ML350 - 2008 - xe cũ,Nhập khẩu,293 triệu,5,Đã qua sử dụng,2008
+35000,-,4,Số tự động,,0,Bán ô tô Mazda BT50 Deluxe 2.2L 4x2 AT - 2021 - xe cũ,Nhập khẩu,560 triệu,5,Đã qua sử dụng,2021
+80000,Trắng,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2015 - xe cũ,Lắp ráp trong nước,320 triệu,5,Đã qua sử dụng,2015
+17000,Trắng,5,Số tự động,,0,Bán ô tô Mitsubishi Xpander Premium 1.5 AT - 2022 - xe cũ,Nhập khẩu,615 triệu,7,Đã qua sử dụng,2022
+0,Trắng,5,Số tự động,,0,Bán ô tô Mitsubishi Xpander 1.5 AT - 2023 - xe mới,Nhập khẩu,522 triệu,7,Mới,2023
+30000,Trắng,5,Số tự động,,0,Bán ô tô Ford EcoSport Trend 1.5L AT - 2019 - xe cũ,Lắp ráp trong nước,399 triệu,5,Đã qua sử dụng,2019
+50000,Xanh,4,Số tự động,,0,Bán ô tô Mazda 3 1.5 AT - 2018 - xe cũ,Lắp ráp trong nước,470 triệu,5,Đã qua sử dụng,2018
+78000,Xám,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2017 - xe cũ,Lắp ráp trong nước,368 triệu,5,Đã qua sử dụng,2017
+190000,Cát,5,Số tự động,,0,Bán ô tô Ford Escape XLT 3.0 AT - 2002 - xe cũ,Nhập khẩu,95 triệu,5,Đã qua sử dụng,2002
+5000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLS 450 4Matic - 2022 - xe cũ,Nhập khẩu,4.398 tỉ,7,Đã qua sử dụng,2022
+50000,-,5,Số tự động,,0,Bán ô tô Mercedes Benz V class V220d CDI - 2017 - xe cũ,Nhập khẩu,1.18 tỉ,7,Đã qua sử dụng,2017
+117000,Xanh,5,Số tự động,,0,Bán ô tô Kia Rondo GAT Deluxe - 2019 - xe cũ,Lắp ráp trong nước,415 triệu,7,Đã qua sử dụng,2019
+4000,Đỏ,5,Số tay,,0,Bán ô tô Hyundai i10 1.2 MT - 2022 - xe cũ,Lắp ráp trong nước,335 triệu,5,Đã qua sử dụng,2022
+50000,Trắng,5,Số tự động,,0,Bán ô tô Hyundai Kona 2.0 ATH - 2020 - xe cũ,Lắp ráp trong nước,560 triệu,5,Đã qua sử dụng,2020
+63000,Trắng,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2018 - xe cũ,Lắp ráp trong nước,336 triệu,5,Đã qua sử dụng,2018
+50000,-,5,Số tự động,,0,Bán ô tô Mercedes Benz V class V220d CDI - 2017 - xe cũ,Nhập khẩu,1.15 tỉ,7,Đã qua sử dụng,2017
+0,Xanh,4,Số tự động,,0,Bán ô tô Honda City L 1.5 AT - 2023 - xe mới,Lắp ráp trong nước,528 triệu,5,Mới,2023
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+600,Nâu,4,Số tay,,0,Bán ô tô Ford Transit Tiêu chuẩn - 2023 - xe cũ,Lắp ráp trong nước,760 triệu,16,Đã qua sử dụng,2023
+300000,Bạc,5,Số tay,,0,Bán ô tô Chevrolet Spark LT 0.8 MT - 2010 - xe cũ,Lắp ráp trong nước,65 triệu,5,Đã qua sử dụng,2010
+72500,Đỏ,5,Số tự động,,0,Bán ô tô Honda Jazz RS - 2018 - xe cũ,Nhập khẩu,420 triệu,5,Đã qua sử dụng,2018
+0,Đen,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.5G - 2013 - xe cũ,Lắp ráp trong nước,495 triệu,7,Đã qua sử dụng,2013
+45000,Trắng,5,Số tự động,,0,Bán ô tô Hyundai Kona 2.0 AT - 2020 - xe cũ,Lắp ráp trong nước,495 triệu,5,Đã qua sử dụng,2020
+100000,Trắng,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E - 2018 - xe cũ,Lắp ráp trong nước,300 triệu,5,Đã qua sử dụng,2018
+53140,Xanh,4,Số tự động,,0,Bán ô tô Nissan Sunny XV - 2015 - xe cũ,Lắp ráp trong nước,270 triệu,5,Đã qua sử dụng,2015
+0,Nâu,5,Số tự động,,0,Bán ô tô Lexus RX 350 Premium - 2023 - xe mới,Nhập khẩu,3.43 tỉ,5,Mới,2023
+0,Trắng,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.0L 4x2 AT - 2023 - xe mới,Lắp ráp trong nước,682 triệu,5,Mới,2023
+12000,Trắng,5,Số tự động,,0,Bán ô tô Mazda 2 Sport Premium - 2022 - xe cũ,Nhập khẩu,498 triệu,5,Đã qua sử dụng,2022
+110000,Đen,5,Số tự động,,0,Bán ô tô Lexus RX 350 AWD - 2015 - xe cũ,Nhập khẩu,1.36 tỉ,5,Đã qua sử dụng,2015
+90000,Nâu,5,Số tự động,,0,Bán ô tô Audi Q3 2.0 Quattro - 2012 - xe cũ,Nhập khẩu,479 triệu,5,Đã qua sử dụng,2012
+0,Ghi,4,Số tự động,,0,Bán ô tô Ford Ranger Raptor 2.0L 4x4 AT - 2023 - xe mới,Nhập khẩu,1.299 tỉ,5,Mới,2023
+70000,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C200 - 2015 - xe cũ,Lắp ráp trong nước,660 triệu,5,Đã qua sử dụng,2015
+18000,Ghi,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E250 - 2010 - xe cũ,Lắp ráp trong nước,305 triệu,5,Đã qua sử dụng,2010
+70000,Kem,5,Số tự động,,0,Bán ô tô Lexus RX 350 - 2017 - xe cũ,Nhập khẩu,2.35 tỉ,5,Đã qua sử dụng,2017
+0,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2022 - xe cũ,Lắp ráp trong nước,1.82 tỉ,5,Đã qua sử dụng,2022
+3000,Đỏ,4,Số tự động,,0,Bán ô tô Hyundai Elantra 1.6 AT Đặc biệt - 2023 - xe cũ,Lắp ráp trong nước,630 triệu,5,Đã qua sử dụng,2023
+100000,Trắng,5,Số tự động,,0,Bán ô tô Ford Fiesta S 1.0 AT Ecoboost - 2013 - xe cũ,Lắp ráp trong nước,275 triệu,5,Đã qua sử dụng,2013
+50000,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E200 - 2020 - xe cũ,Lắp ráp trong nước,1.299 tỉ,5,Đã qua sử dụng,2020
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+28000,Đen,4,Số tự động,,0,Bán ô tô Toyota Corolla altis 1.8G - 2022 - xe cũ,Nhập khẩu,660 triệu,5,Đã qua sử dụng,2022
+39000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 200 - 2021 - xe cũ,Lắp ráp trong nước,1.369 tỉ,5,Đã qua sử dụng,2021
+38000,Xám,4,Số tự động,,0,Bán ô tô Porsche Panamera 2.9 V6 - 2021 - xe cũ,Nhập khẩu,4.95 tỉ,4,Đã qua sử dụng,2021
+30000,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2017 - xe cũ,Lắp ráp trong nước,1.34 tỉ,5,Đã qua sử dụng,2017
+15000,Đỏ,4,Số tay,,0,Bán ô tô Kia K3 Deluxe 1.6 MT - 2022 - xe cũ,Lắp ráp trong nước,466 triệu,5,Đã qua sử dụng,2022
+121000,Nâu,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2017 - xe cũ,Lắp ráp trong nước,365 triệu,5,Đã qua sử dụng,2017
+5600,Xanh,4,Số tự động,,0,Bán ô tô Kia K3 Premium 2.0 AT - 2022 - xe cũ,Lắp ráp trong nước,629 triệu,5,Đã qua sử dụng,2022
+46000,Trắng,5,Số tự động,,0,Bán ô tô Honda CRV L - 2020 - xe cũ,Lắp ráp trong nước,810 triệu,7,Đã qua sử dụng,2020
+77000,Đen,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.5G - 2016 - xe cũ,Lắp ráp trong nước,640 triệu,7,Đã qua sử dụng,2016
+80000,-,5,Số tự động,,0,Bán ô tô BMW 2 Series 218i Active Tourer - 2016 - xe cũ,Nhập khẩu,465 triệu,5,Đã qua sử dụng,2016
+31000,Đỏ,4,Số tay,,0,Bán ô tô Toyota Vios E 1.5 MT - 2022 - xe cũ,Lắp ráp trong nước,418 triệu,5,Đã qua sử dụng,2022
+0,Đỏ,4,Số tự động,,0,Bán ô tô Kia Cerato 2.0 AT Premium - 2018 - xe cũ,Lắp ráp trong nước,396 triệu,5,Đã qua sử dụng,2018
+200000,Trắng,4,Số tay,,0,Bán ô tô Kia Rio 1.4 MT - 2015 - xe cũ,Nhập khẩu,250 triệu,5,Đã qua sử dụng,2015
+60000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2019 - xe cũ,Nhập khẩu,900 triệu,5,Đã qua sử dụng,2019
+8,Kem,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2016 - xe cũ,Lắp ráp trong nước,375 triệu,5,Đã qua sử dụng,2016
+57000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.0E - 2017 - xe cũ,Lắp ráp trong nước,630 triệu,5,Đã qua sử dụng,2017
+100000,Trắng,5,Số tự động,,0,Bán ô tô Ford Focus 1.8 AT - 2011 - xe cũ,Lắp ráp trong nước,245 triệu,5,Đã qua sử dụng,2011
+60000,Trắng,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x4 AT - 2020 - xe cũ,Nhập khẩu,968 triệu,7,Đã qua sử dụng,2020
+0,Trắng,4,Số tay,,0,Bán ô tô Kia Rio 1.4 MT - 2016 - xe cũ,Nhập khẩu,250 triệu,5,Đã qua sử dụng,2016
+50000,Bạc,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E MT - 2019 - xe cũ,Lắp ráp trong nước,355 triệu,5,Đã qua sử dụng,2019
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+0,Bạc,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.7V 4x4 AT - 2013 - xe cũ,Lắp ráp trong nước,395 triệu,7,Đã qua sử dụng,2013
+63863,Trắng,5,Số tự động,,0,Bán ô tô Lexus GX 460 - 2011 - xe cũ,Nhập khẩu,1.75 tỉ,7,Đã qua sử dụng,2011
+0,Xám,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.0L 4x2 AT - 2023 - xe mới,Lắp ráp trong nước,605 triệu,5,Mới,2023
+119209,Đen,5,Số tự động,,0,Bán ô tô Audi Q7 2.0 AT - 2017 - xe cũ,Nhập khẩu,1.45 tỉ,7,Đã qua sử dụng,2017
+30000,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLS 450 4Matic - 2021 - xe cũ,Nhập khẩu,4.399 tỉ,7,Đã qua sử dụng,2021
+123000,Bạc,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.4G 4x2 MT - 2018 - xe cũ,Nhập khẩu,768 triệu,7,Đã qua sử dụng,2018
+0,Trắng,4,Số tự động,,0,Bán ô tô Ford Ranger Raptor 2.0L 4x4 AT - 2023 - xe mới,Nhập khẩu,1.225 tỉ,5,Mới,2023
+0,Đỏ,5,Số tay,,0,Bán ô tô Mitsubishi Jolie SS - 2006 - xe cũ,Lắp ráp trong nước,135 triệu,8,Đã qua sử dụng,2006
+41000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.8L 4x4 AT - 2021 - xe cũ,Nhập khẩu,845 triệu,5,Đã qua sử dụng,2021
+120000,Đỏ,4,Số tự động,,0,Bán ô tô Mazda BT50 3.2L 4x4 AT - 2014 - xe cũ,Nhập khẩu,345 triệu,5,Đã qua sử dụng,2014
+70000,Đỏ,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2019 - xe cũ,Lắp ráp trong nước,999 triệu,5,Đã qua sử dụng,2019
+61000,Đồng,4,Số tự động,,0,Bán ô tô BMW 5 Series 520i - 2018 - xe cũ,Nhập khẩu,1.199 tỉ,5,Đã qua sử dụng,2018
+50000,Trắng,5,Số tự động,,0,Bán ô tô Kia Sorento 2.4 GAT Premium - 2020 - xe cũ,Lắp ráp trong nước,685 triệu,7,Đã qua sử dụng,2020
+64000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz S class S450L - 2018 - xe cũ,Lắp ráp trong nước,2.25 tỉ,5,Đã qua sử dụng,2018
+78000,Xám,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2017 - xe cũ,Lắp ráp trong nước,355 triệu,5,Đã qua sử dụng,2017
+0,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2021 - xe cũ,Lắp ráp trong nước,1.779 tỉ,5,Đã qua sử dụng,2021
+9600,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C300 AMG - 2022 - xe cũ,Lắp ráp trong nước,1.898 tỉ,5,Đã qua sử dụng,2022
+686,Đen,4,Số tay,,0,Bán ô tô Toyota Corolla altis 1.8G MT - 2003 - xe cũ,Lắp ráp trong nước,136 triệu,5,Đã qua sử dụng,2003
+35000,Đen,5,Số tự động,,0,Bán ô tô Ford Explorer Limited 2.3L EcoBoost - 2022 - xe cũ,Nhập khẩu,2.15 tỉ,7,Đã qua sử dụng,2022
+65000,Trắng,4,Số tự động,,0,Bán ô tô Audi A6 1.8 TFSI - 2016 - xe cũ,Nhập khẩu,899 triệu,5,Đã qua sử dụng,2016
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+25000,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.0G - 2022 - xe cũ,Nhập khẩu,935 triệu,5,Đã qua sử dụng,2022
+0,Xám,4,Số tự động,,0,Bán ô tô Mitsubishi Attrage 1.2 CVT - 2021 - xe cũ,Nhập khẩu,375 triệu,5,Đã qua sử dụng,2021
+28000,Kem,5,Số tự động,,0,Bán ô tô Toyota Fortuner 2.4L 4x2 AT - 2022 - xe cũ,Lắp ráp trong nước,979 triệu,7,Đã qua sử dụng,2022
+80000,-,5,Số tự động,,0,Bán ô tô BMW 2 Series 218i Active Tourer - 2016 - xe cũ,Nhập khẩu,465 triệu,5,Đã qua sử dụng,2016
+28000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 200 - 2019 - xe cũ,Lắp ráp trong nước,1.12 tỉ,5,Đã qua sử dụng,2019
+80000,-,5,Số tự động,,0,Bán ô tô BMW 2 Series 218i Active Tourer - 2016 - xe cũ,Nhập khẩu,465 triệu,5,Đã qua sử dụng,2016
+0,Đen,4,Số tay,,0,Bán ô tô Ford Focus 1.8 MT - 2009 - xe cũ,Lắp ráp trong nước,155 triệu,5,Đã qua sử dụng,2009
+69000,Vàng,5,Số tự động,,0,Bán ô tô Lexus RX 350 - 2017 - xe cũ,Nhập khẩu,2.339 tỉ,5,Đã qua sử dụng,2017
+34000,Cam,5,Số tự động,,0,Bán ô tô Honda Brio RS - 2020 - xe cũ,Nhập khẩu,361 triệu,5,Đã qua sử dụng,2020
+6000,Xanh,5,Số tự động,,0,Bán ô tô Kia Sportage Signature 1.6T AWD - 2022 - xe cũ,Lắp ráp trong nước,910 triệu,5,Đã qua sử dụng,2022
+80000,-,5,Số tự động,,0,Bán ô tô BMW 2 Series 218i Active Tourer - 2016 - xe cũ,Nhập khẩu,465 triệu,5,Đã qua sử dụng,2016
+0,Cam,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 3.2L 4x4 AT - 2017 - xe cũ,Nhập khẩu,590 triệu,5,Đã qua sử dụng,2017
+70000,Đen,4,Số tự động,,0,Bán ô tô Toyota Hilux 2.4L 4x2 AT - 2021 - xe cũ,Nhập khẩu,660 triệu,5,Đã qua sử dụng,2021
+0,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLK Class GLK300 4Matic - 2009 - xe cũ,Lắp ráp trong nước,330 triệu,5,Đã qua sử dụng,2009
+0,Đỏ,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x4 AT - 2018 - xe cũ,Nhập khẩu,860 triệu,7,Đã qua sử dụng,2018
+12000,Trắng,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT Đặc Biệt - 2022 - xe cũ,Lắp ráp trong nước,479 triệu,5,Đã qua sử dụng,2022
+46000,Đen,5,Số tự động,,0,Bán ô tô Ford Everest Titanium 2.0L 4x4 AT - 2019 - xe cũ,Nhập khẩu,910 triệu,7,Đã qua sử dụng,2019
+90000,Bạc,5,Số tay,,0,Bán ô tô Hyundai Grand Starex Van 2.5 MT - 2016 - xe cũ,Nhập khẩu,530 triệu,6,Đã qua sử dụng,2016
+40000,Cam,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2020 - xe cũ,Nhập khẩu,635 triệu,5,Đã qua sử dụng,2020
+51000,Đen,5,Số tự động,,0,Bán ô tô Mazda 3 1.5 AT - 2018 - xe cũ,Lắp ráp trong nước,469 triệu,5,Đã qua sử dụng,2018
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+63000,Cát,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2019 - xe cũ,Lắp ráp trong nước,432 triệu,5,Đã qua sử dụng,2019
+15000,Đen,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 300 4Matic - 2022 - xe cũ,Lắp ráp trong nước,1.979 tỉ,5,Đã qua sử dụng,2022
+90000,Đen,4,Số tự động,,0,Bán ô tô BMW 5 Series 520i - 2013 - xe cũ,Nhập khẩu,680 triệu,5,Đã qua sử dụng,2013
+0,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 3.0V - 2004 - xe cũ,Lắp ráp trong nước,188 triệu,5,Đã qua sử dụng,2004
+39000,Trắng,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2021 - xe cũ,Lắp ráp trong nước,435 triệu,5,Đã qua sử dụng,2021
+48000,Trắng,4,Số tự động,,0,Bán ô tô Lexus ES 250 - 2018 - xe cũ,Nhập khẩu,1.69 tỉ,5,Đã qua sử dụng,2018
+100000,Xám,4,Số tay,,0,Bán ô tô Nissan Navara LE 2.5MT 4WD - 2013 - xe cũ,Nhập khẩu,260 triệu,5,Đã qua sử dụng,2013
+0,Nâu,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.0L 4x2 AT - 2023 - xe mới,Lắp ráp trong nước,635 triệu,5,Mới,2023
+43000,Nâu,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium 1.5L AT - 2018 - xe cũ,Lắp ráp trong nước,445 triệu,5,Đã qua sử dụng,2018
+0,Xám,4,Số tự động,,0,Bán ô tô Ford Ranger Raptor 2.0L 4x4 AT - 2023 - xe mới,Nhập khẩu,1.2 tỉ,5,Mới,2023
+24000,Xám,4,Số tự động,,0,Bán ô tô Hyundai Elantra 1.6 AT Đặc biệt - 2022 - xe cũ,Lắp ráp trong nước,620 triệu,5,Đã qua sử dụng,2022
+100000,Đen,5,Số tự động,,0,Bán ô tô Lexus GX 470 - 2008 - xe cũ,Nhập khẩu,840 triệu,7,Đã qua sử dụng,2008
+0,Đen,5,Số tự động,,0,Bán ô tô Kia Carnival Premium 2.2D 7S - 2023 - xe mới,Lắp ráp trong nước,1.349 tỉ,7,Mới,2023
+9000,Trắng,5,Số tự động,,0,Bán ô tô Mitsubishi Xpander Premium 1.5 AT - 2023 - xe cũ,Nhập khẩu,640 triệu,7,Đã qua sử dụng,2023
+500,Đỏ,4,Số tự động,,0,Bán ô tô Mercedes Benz S class S450 4Matic - 2023 - xe cũ,Nhập khẩu,4.799 tỉ,5,Đã qua sử dụng,2023
+9900,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E180 - 2022 - xe cũ,Lắp ráp trong nước,1.619 tỉ,5,Đã qua sử dụng,2022
+36000,Trắng,4,Số tự động,,0,Bán ô tô Ford Ranger Wildtrak 2.0L 4x4 AT - 2022 - xe cũ,Lắp ráp trong nước,749 triệu,5,Đã qua sử dụng,2022
+0,Trắng,5,Số tự động,,0,Bán ô tô Kia Carnival Luxury 2.2D - 2023 - xe mới,Lắp ráp trong nước,1.209 tỉ,8,Mới,2023
+0,Trắng,4,Số tự động,,0,Bán ô tô Honda City L 1.5 AT - 2023 - xe mới,Lắp ráp trong nước,549 triệu,5,Mới,2023
+87500,Xám,4,Số tự động,,0,Bán ô tô Porsche Panamera 4S - 2011 - xe cũ,Nhập khẩu,1.13 tỉ,4,Đã qua sử dụng,2011
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+120000,Đỏ,4,Số tự động,,0,Bán ô tô Kia Cerato 1.6 AT - 2010 - xe cũ,Nhập khẩu,275 triệu,5,Đã qua sử dụng,2010
+63000,Trắng,5,Số tự động,,0,Bán ô tô Suzuki Swift 1.4 AT - 2015 - xe cũ,Lắp ráp trong nước,305 triệu,5,Đã qua sử dụng,2015
+37000,Đen,4,Số tự động,,0,Bán ô tô Toyota Corolla altis 1.8G AT - 2009 - xe cũ,Lắp ráp trong nước,310 triệu,5,Đã qua sử dụng,2009
+120000,Bạc,4,Số tự động,,0,Bán ô tô Toyota Vios 1.5G - 2010 - xe cũ,Lắp ráp trong nước,260 triệu,5,Đã qua sử dụng,2010
+80000,Trắng,4,Số tự động,,0,Bán ô tô Chevrolet Colorado LTZ - 2017 - xe cũ,Nhập khẩu,400 triệu,5,Đã qua sử dụng,2017
+38000,Đen,4,Số tự động,,0,Bán ô tô Kia K3 Premium 2.0 AT - 2022 - xe cũ,Lắp ráp trong nước,610 triệu,5,Đã qua sử dụng,2022
+94000,Xám,4,Số tự động,,0,Bán ô tô BMW 5 Series 528i - 2014 - xe cũ,Nhập khẩu,698 triệu,5,Đã qua sử dụng,2014
+12000,-,5,Số tự động,,0,Bán ô tô Audi Q8 55 TFSI S-Line Quattro - 2021 - xe cũ,Nhập khẩu,3.55 tỉ,5,Đã qua sử dụng,2021
+16088,Ghi,4,Số tự động,,0,Bán ô tô Mercedes Benz C class C200 CGI - 2010 - xe cũ,Lắp ráp trong nước,265 triệu,5,Đã qua sử dụng,2010
+120000,Xanh,4,Số tự động,,0,Bán ô tô Honda Civic 1.8 AT - 2008 - xe cũ,Lắp ráp trong nước,245 triệu,5,Đã qua sử dụng,2008
+24000,Trắng,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E300 AMG - 2019 - xe cũ,Lắp ráp trong nước,1.669 tỉ,5,Đã qua sử dụng,2019
+0,Cát,4,Số tự động,,0,Bán ô tô Hyundai Elantra 1.6 AT Tiêu chuẩn - 2023 - xe mới,Lắp ráp trong nước,580 triệu,5,Mới,2023
+80000,Bạc,4,Số tự động,,0,Bán ô tô Hyundai i10 Grand 1.2 AT - 2019 - xe cũ,Lắp ráp trong nước,308 triệu,5,Đã qua sử dụng,2019
+32000,Trắng,4,Số tự động,,0,Bán ô tô Toyota Vios G 1.5 CVT - 2021 - xe cũ,Lắp ráp trong nước,485 triệu,5,Đã qua sử dụng,2021
+20000,Ghi,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.0L 4x4 AT - 2022 - xe cũ,Lắp ráp trong nước,695 triệu,5,Đã qua sử dụng,2022
+85000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz S class S500L - 2014 - xe cũ,Nhập khẩu,1.69 tỉ,5,Đã qua sử dụng,2014
+81000,Đen,5,Số tự động,,0,Bán ô tô Kia Sedona 3.3 GAT Signature - 2021 - xe cũ,Lắp ráp trong nước,855 triệu,7,Đã qua sử dụng,2021
+11000,Cát,4,Số tay,,0,Bán ô tô Toyota Vios 1.5E MT - 2021 - xe cũ,Lắp ráp trong nước,400 triệu,5,Đã qua sử dụng,2021
+82000,Ghi,5,Số tự động,,0,Bán ô tô Kia Sedona 2.2L DATH - 2017 - xe cũ,Lắp ráp trong nước,695 triệu,7,Đã qua sử dụng,2017
+76800,Tím,4,Số tự động,,0,Bán ô tô Mercedes Benz CLA class CLA 250 4Matic - 2014 - xe cũ,Nhập khẩu,599 triệu,5,Đã qua sử dụng,2014
+KMtraveled,color,doorNumber,engine,fuelConsumption,gear,name,origin,price,seatNumber,status,yom
+120000,Đen,4,Số tự động,,0,Bán ô tô Kia Forte SX 1.6 AT - 2011 - xe cũ,Lắp ráp trong nước,275 triệu,5,Đã qua sử dụng,2011
+69000,Trắng,4,Số tự động,,0,Bán ô tô Honda City 1.5TOP - 2017 - xe cũ,Lắp ráp trong nước,382 triệu,5,Đã qua sử dụng,2017
+21689,Đen,4,Số tự động,,0,Bán ô tô Hyundai Accent 1.4 AT - 2020 - xe cũ,Lắp ráp trong nước,425 triệu,5,Đã qua sử dụng,2020
+56334,Cát,4,Số tự động,,0,Bán ô tô Ford Ranger XLS 2.2L 4x2 AT - 2019 - xe cũ,Nhập khẩu,519 triệu,5,Đã qua sử dụng,2019
+68000,Trắng,5,Số tự động,,0,Bán ô tô Ford Everest Ambiente 2.0 4x2 AT - 2019 - xe cũ,Nhập khẩu,715 triệu,7,Đã qua sử dụng,2019
+55000,Trắng,4,Số tự động,,0,Bán ô tô Mazda 3 2.0 AT - 2018 - xe cũ,Lắp ráp trong nước,489 triệu,5,Đã qua sử dụng,2018
+0,Đỏ,5,Số tự động,,0,Bán ô tô Honda CRV e:HEV RS - 2023 - xe mới,Nhập khẩu,1.264 tỉ,5,Mới,2023
+8100,Đen,4,Số tự động,,0,Bán ô tô Toyota Camry 2.5Q - 2021 - xe cũ,Nhập khẩu,1.05 tỉ,5,Đã qua sử dụng,2021
+12900,Đỏ,5,Số tự động,,0,Bán ô tô Ford EcoSport Titanium Black 1.5L AT - 2017 - xe cũ,Lắp ráp trong nước,395 triệu,5,Đã qua sử dụng,2017
+45000,Đen,4,Số tự động,,0,Bán ô tô Mercedes Benz E class E300 AMG - 2021 - xe cũ,Lắp ráp trong nước,2.06 tỉ,5,Đã qua sử dụng,2021
+70000,Trắng,5,Số tự động,,0,Bán ô tô Mercedes Benz GLC 200 - 2019 - xe cũ,Lắp ráp trong nước,1.088 tỉ,5,Đã qua sử dụng,2019
+69000,Ghi,5,Số tự động,,0,Bán ô tô Mitsubishi Xpander 1.5 AT - 2019 - xe cũ,Nhập khẩu,469 triệu,7,Đã qua sử dụng,2019
+86533,Nâu,5,Số tay,,0,Bán ô tô Toyota Fortuner 2.4G 4x2 MT - 2017 - xe cũ,Nhập khẩu,710 triệu,7,Đã qua sử dụng,2017
+13999,Trắng,5,Số tự động,,0,Bán ô tô Porsche Macan 2.0 - 2021 - xe cũ,Nhập khẩu,2.9 tỉ,5,Đã qua sử dụng,2021
+10000,Trắng,5,Số tự động,,0,Bán ô tô Porsche Macan 2.0 - 2021 - xe cũ,Nhập khẩu,2.85 tỉ,5,Đã qua sử dụng,2021
+78000,Cát,5,Số tự động,,0,Bán ô tô Ford Escape XLS 2.3L 4x2 AT - 2013 - xe cũ,Lắp ráp trong nước,328 triệu,5,Đã qua sử dụng,2013
+70000,Đỏ,4,Số tự động,,0,Bán ô tô Kia Cerato 2.0 AT Premium - 2020 - xe cũ,Lắp ráp trong nước,500 triệu,5,Đã qua sử dụng,2020
+30000,Đỏ,5,Số tự động,,0,Bán ô tô Kia Carnival Signature 2.2D - 2022 - xe cũ,Lắp ráp trong nước,1.386 tỉ,7,Đã qua sử dụng,2022
+68000,-,5,Số tự động,,0,Bán ô tô Audi Q5 2.0 AT - 2015 - xe cũ,Nhập khẩu,685 triệu,5,Đã qua sử dụng,2015
+77000,Đỏ,5,Số tự động,,0,Bán ô tô Lexus RX 350 - 2009 - xe cũ,Nhập khẩu,899 triệu,5,Đã qua sử dụng,2009

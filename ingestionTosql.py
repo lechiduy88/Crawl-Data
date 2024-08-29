@@ -12,10 +12,10 @@ print(myconn)
  
 # tạo đối tượng cursor
 cur = myconn.cursor()
-sql = ("insert into car(name,yom, price, origin, status, KMtraveled, color, doorNumber,seatNumber, engine, Comsumption) "
-    "values (%s, %s, %s, %s, %s, %s, %s, %s, %s,%s, %s )")
+sql = ("insert into car(name,yom, price, origin, status, KMtraveled, color, doorNumber,seatNumber, engine, gear, Comsumption) "
+    "values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)")
 
-with open('./car/allcar.csv', newline='', encoding="utf8") as csvfile:
+with open('./clean_car.csv', newline='', encoding="utf8") as csvfile:
     data = list(csv.reader(csvfile))
     for row in data:
         cur.execute(sql, (row))

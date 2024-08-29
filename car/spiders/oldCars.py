@@ -8,18 +8,18 @@ class OldcarsSpider(scrapy.Spider):
     start_urls = ["https://sanbonbanh.com/"]
 
     def start_requests(self):
-        pages = []
-        for i in range(55,57): 
-            domain = 'https://sanbonbanh.com/sellcar/page-{}/'.format(i)
-            pages.append(domain)
+        with open('car\spiders\page_number.txt', 'r') as file:
+            i = int(file.read())
+        domain = 'https://sanbonbanh.com/sellcar/page-{}/'.format(i)
+        yield scrapy.Request(url=domain, callback=self.parse_link)
+        print('----------------------------------------------', i)
+        with open('car\spiders\page_number.txt', 'w') as file:
+            file.write(str(i + 1))
 
-        for page in pages:
-            yield scrapy.Request(url=page, callback=self.parse_link)
+        
     def parse_link(self, response):
         for i in range(1, 21):
             str = 'body > section.product-listing.page-section-ptb > div > div > div.col-lg-8.col-md-7.bg-white > div.list-group > div:nth-child({}) > div > div.col-lg-8.col-md-12 > div > div.car-title > a::attr(href)'.format(i)
-            #      body > section.product-listing.page-section-ptb > div > div > div.col-lg-8.col-md-7.bg-white > div.list-group > div:nth-child(2) > div > div.col-lg-8.col-md-12 > div > div.car-title > a
-            #      body > section.product-listing.page-section-ptb > div > div > div.col-lg-8.col-md-7.bg-white > div.list-group > div:nth-child(1) > div > div.col-lg-8.col-md-12 > div > div.car-title > a
             link = response.css(str).extract_first()
 
             yield scrapy.Request(response.urljoin(link), callback=self.parse)

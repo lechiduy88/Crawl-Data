@@ -98,3 +98,13 @@ DEFAULT_REQUEST_HEADERS = {
 }
 
 FEED_EXPORT_ENCODING = 'utf-8'
+
+FEEDS = {
+    'car.csv': {
+        'format': 'csv',
+        'encoding': 'utf8',
+        'store_empty': False,
+        'fields': None,
+        'overwrite': None,  # Để ghi đè file cũ mỗi lần chạy spider
+    },
+}
